@@ -1,0 +1,4052 @@
+[
+  {
+    "rating": 1486,
+    "type": "numeric",
+    "q": "Ohm’s law: V=12 V across R=12 Ω. Current I (A)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 1393,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 893,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 708,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1436,
+    "type": "numeric",
+    "q": "Heat Q to raise 1 kg substance (c=900 J/kg·K) by 10 K. Q (J)?",
+    "answer": "9000"
+  },
+  {
+    "rating": 801,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 816,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 926,
+    "type": "numeric",
+    "q": "Torque from F=20 N at lever arm r=1.0 m ⟂. τ (N·m)?",
+    "answer": "20.0"
+  },
+  {
+    "rating": 1021,
+    "type": "numeric",
+    "q": "Friction force with μ=0.31 and normal force 10 N. F_f (N)?",
+    "answer": "3.1"
+  },
+  {
+    "rating": 1242,
+    "type": "numeric",
+    "q": "Two resistors 4 Ω and 12 Ω in parallel. Equivalent (Ω)?",
+    "answer": "3.0"
+  },
+  {
+    "rating": 1004,
+    "type": "numeric",
+    "q": "Heat Q to raise 0.5 kg substance (c=3900 J/kg·K) by 10 K. Q (J)?",
+    "answer": "19500"
+  },
+  {
+    "rating": 868,
+    "type": "numeric",
+    "q": "Ohm’s law: V=6 V across R=12 Ω. Current I (A)?",
+    "answer": "0.5"
+  },
+  {
+    "rating": 848,
+    "type": "numeric",
+    "q": "For frequency f=0.91 Hz, period T (s)?",
+    "answer": "1.1"
+  },
+  {
+    "rating": 678,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=2 m/s, a=4 m/s², Δx=40 m. v_f (m/s)?",
+    "answer": "18.0"
+  },
+  {
+    "rating": 618,
+    "type": "numeric",
+    "q": "Component of weight down a θ=60° incline for m=2 kg. Value (N)?",
+    "answer": "17.0"
+  },
+  {
+    "rating": 1225,
+    "type": "mcq",
+    "q": "Absolute zero is…",
+    "a": [
+      "0 K",
+      "0 °C",
+      "−100 °C",
+      "273 K"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 855,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 4 Ω in parallel. Equivalent (Ω)?",
+    "answer": "1.33"
+  },
+  {
+    "rating": 987,
+    "type": "numeric",
+    "q": "KE of m=5 kg moving at v=2 m/s. KE (J)?",
+    "answer": "10.0"
+  },
+  {
+    "rating": 678,
+    "type": "numeric",
+    "q": "Gravitational PE for m=5 kg at h=2 m (g=9.8). PE (J)?",
+    "answer": "98.0"
+  },
+  {
+    "rating": 1492,
+    "type": "mcq",
+    "q": "During a phase change at constant pressure, temperature…",
+    "a": [
+      "stays constant",
+      "increases linearly",
+      "decreases",
+      "oscillates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1286,
+    "type": "numeric",
+    "q": "Momentum of m=4 kg moving at v=2 m/s (kg·m/s)?",
+    "answer": "8"
+  },
+  {
+    "rating": 1059,
+    "type": "numeric",
+    "q": "Work by F=20 N over d=5 m parallel. W (J)?",
+    "answer": "100"
+  },
+  {
+    "rating": 734,
+    "type": "numeric",
+    "q": "An object travels 132.8 m in 10.2 s at constant speed. Average velocity (m/s)?",
+    "answer": "13.02"
+  },
+  {
+    "rating": 1184,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1060,
+    "type": "numeric",
+    "q": "Displacement for v₀=0 m/s, a=1 m/s², t=3 s. Δx (m)?",
+    "answer": "4.5"
+  },
+  {
+    "rating": 997,
+    "type": "numeric",
+    "q": "Displacement for v₀=10 m/s, a=2 m/s², t=2 s. Δx (m)?",
+    "answer": "24.0"
+  },
+  {
+    "rating": 921,
+    "type": "numeric",
+    "q": "Displacement for v₀=3 m/s, a=3 m/s², t=3 s. Δx (m)?",
+    "answer": "22.5"
+  },
+  {
+    "rating": 1336,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 783,
+    "type": "numeric",
+    "q": "Component of weight down a θ=60° incline for m=2 kg. Value (N)?",
+    "answer": "17.0"
+  },
+  {
+    "rating": 1062,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1102,
+    "type": "mcq",
+    "q": "First Law of Thermodynamics…",
+    "a": [
+      "ΔU=Q−W",
+      "ΔU=Q+W",
+      "W=Q−ΔU",
+      "Q=W"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1133,
+    "type": "numeric",
+    "q": "Constant acceleration a=2.3 m/s² from v₀=1.5 m/s for t=4.6 s. Final speed (m/s)?",
+    "answer": "12.08"
+  },
+  {
+    "rating": 729,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1536,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 821,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1338,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 927,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1366,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1141,
+    "type": "numeric",
+    "q": "Gravitational PE for m=5 kg at h=4 m (g=9.8). PE (J)?",
+    "answer": "196.0"
+  },
+  {
+    "rating": 1222,
+    "type": "numeric",
+    "q": "Weight of m=10 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "98.0"
+  },
+  {
+    "rating": 1177,
+    "type": "numeric",
+    "q": "Centripetal force for m=5 kg, v=5 m/s, R=6 m (N)?",
+    "answer": "20.83"
+  },
+  {
+    "rating": 1035,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1541,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 871,
+    "type": "numeric",
+    "q": "Friction force with μ=0.42 and normal force 50 N. F_f (N)?",
+    "answer": "21.0"
+  },
+  {
+    "rating": 1184,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1105,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1553,
+    "type": "numeric",
+    "q": "Ohm’s law: V=12 V across R=6 Ω. Current I (A)?",
+    "answer": "2.0"
+  },
+  {
+    "rating": 987,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 955,
+    "type": "numeric",
+    "q": "Power for W=100 J over t=10 s. P (W)?",
+    "answer": "10.0"
+  },
+  {
+    "rating": 1047,
+    "type": "numeric",
+    "q": "For frequency f=3.73 Hz, period T (s)?",
+    "answer": "0.27"
+  },
+  {
+    "rating": 963,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.089 m², B=0.18 T, θ=60°. Φ (Wb)?",
+    "answer": "0.008"
+  },
+  {
+    "rating": 1391,
+    "type": "numeric",
+    "q": "Power for W=1000 J over t=5 s. P (W)?",
+    "answer": "200.0"
+  },
+  {
+    "rating": 1612,
+    "type": "numeric",
+    "q": "Ohm’s law: V=6 V across R=4 Ω. Current I (A)?",
+    "answer": "1.5"
+  },
+  {
+    "rating": 1081,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 918,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 983,
+    "type": "numeric",
+    "q": "Component of weight down a θ=45° incline for m=10 kg. Value (N)?",
+    "answer": "69.3"
+  },
+  {
+    "rating": 1166,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1548,
+    "type": "mcq",
+    "q": "Absolute zero is…",
+    "a": [
+      "0 K",
+      "0 °C",
+      "−100 °C",
+      "273 K"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 848,
+    "type": "numeric",
+    "q": "Mass m=2 kg accelerating upward at 0 m/s². Tension in rope (N)?",
+    "answer": "19.6"
+  },
+  {
+    "rating": 765,
+    "type": "numeric",
+    "q": "Friction force with μ=0.23 and normal force 10 N. F_f (N)?",
+    "answer": "2.3"
+  },
+  {
+    "rating": 1275,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 794,
+    "type": "numeric",
+    "q": "Displacement for v₀=3 m/s, a=2 m/s², t=5 s. Δx (m)?",
+    "answer": "40.0"
+  },
+  {
+    "rating": 1093,
+    "type": "numeric",
+    "q": "Tangential speed for ω=5 rad/s, R=0.5 m (m/s)?",
+    "answer": "2.5"
+  },
+  {
+    "rating": 1333,
+    "type": "numeric",
+    "q": "For frequency f=1.7 Hz, period T (s)?",
+    "answer": "0.59"
+  },
+  {
+    "rating": 967,
+    "type": "numeric",
+    "q": "Mass m=8 kg accelerating upward at 1 m/s². Tension in rope (N)?",
+    "answer": "86.4"
+  },
+  {
+    "rating": 1201,
+    "type": "numeric",
+    "q": "Work by F=5 N over d=2 m parallel. W (J)?",
+    "answer": "10"
+  },
+  {
+    "rating": 810,
+    "type": "numeric",
+    "q": "Displacement for v₀=6 m/s, a=1 m/s², t=5 s. Δx (m)?",
+    "answer": "42.5"
+  },
+  {
+    "rating": 1383,
+    "type": "numeric",
+    "q": "Electrical power with V=12 V and I=0.24 A. P (W)?",
+    "answer": "2.88"
+  },
+  {
+    "rating": 719,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1328,
+    "type": "numeric",
+    "q": "Gravitational PE for m=3 kg at h=4 m (g=9.8). PE (J)?",
+    "answer": "117.6"
+  },
+  {
+    "rating": 1032,
+    "type": "numeric",
+    "q": "Torque from F=5 N at lever arm r=0.2 m ⟂. τ (N·m)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 661,
+    "type": "numeric",
+    "q": "Friction force with μ=0.46 and normal force 20 N. F_f (N)?",
+    "answer": "9.2"
+  },
+  {
+    "rating": 1222,
+    "type": "mcq",
+    "q": "Right-hand rule gives the direction of…",
+    "a": [
+      "magnetic force/field",
+      "electric field only",
+      "current magnitude",
+      "charge sign"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 708,
+    "type": "numeric",
+    "q": "Friction force with μ=0.34 and normal force 10 N. F_f (N)?",
+    "answer": "3.4"
+  },
+  {
+    "rating": 1073,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1159,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1094,
+    "type": "numeric",
+    "q": "Ohm’s law: V=9 V across R=6 Ω. Current I (A)?",
+    "answer": "1.5"
+  },
+  {
+    "rating": 894,
+    "type": "numeric",
+    "q": "Centripetal force for m=5 kg, v=10 m/s, R=2 m (N)?",
+    "answer": "250.0"
+  },
+  {
+    "rating": 1325,
+    "type": "numeric",
+    "q": "Tangential speed for ω=2 rad/s, R=0.5 m (m/s)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 1029,
+    "type": "numeric",
+    "q": "Constant acceleration a=3.5 m/s² from v₀=1.6 m/s for t=4.3 s. Final speed (m/s)?",
+    "answer": "16.65"
+  },
+  {
+    "rating": 1004,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=6 rad/s. K (J)?",
+    "answer": "36.0"
+  },
+  {
+    "rating": 1021,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1175,
+    "type": "numeric",
+    "q": "KE of m=5 kg moving at v=6 m/s. KE (J)?",
+    "answer": "90.0"
+  },
+  {
+    "rating": 1168,
+    "type": "numeric",
+    "q": "Torque from F=10 N at lever arm r=0.5 m ⟂. τ (N·m)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 1020,
+    "type": "numeric",
+    "q": "Simple pendulum length L=2.0 m (g=9.8). Period T (s)?",
+    "answer": "2.84"
+  },
+  {
+    "rating": 889,
+    "type": "numeric",
+    "q": "Gravitational PE for m=2 kg at h=2 m (g=9.8). PE (J)?",
+    "answer": "39.2"
+  },
+  {
+    "rating": 971,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=5 m/s, R=5 m (m/s²)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 1653,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1323,
+    "type": "numeric",
+    "q": "m1=1 kg at v=4 m/s hits m2=3 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "1.33"
+  },
+  {
+    "rating": 871,
+    "type": "numeric",
+    "q": "Weight of m=1 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "9.8"
+  },
+  {
+    "rating": 1492,
+    "type": "numeric",
+    "q": "Electrical power with V=9 V and I=2.81 A. P (W)?",
+    "answer": "25.29"
+  },
+  {
+    "rating": 1345,
+    "type": "numeric",
+    "q": "Power for W=200 J over t=5 s. P (W)?",
+    "answer": "40.0"
+  },
+  {
+    "rating": 1601,
+    "type": "numeric",
+    "q": "Electrical power with V=5 V and I=1.21 A. P (W)?",
+    "answer": "6.05"
+  },
+  {
+    "rating": 1524,
+    "type": "mcq",
+    "q": "During a phase change at constant pressure, temperature…",
+    "a": [
+      "stays constant",
+      "increases linearly",
+      "decreases",
+      "oscillates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 855,
+    "type": "numeric",
+    "q": "m1=3 kg at v=4 m/s hits m2=1 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "12.0"
+  },
+  {
+    "rating": 1468,
+    "type": "numeric",
+    "q": "Field in solenoid (μ₀=1.3e-06, n=200/0.1 m, I=1.64 A). B (T)?",
+    "answer": "0.004122"
+  },
+  {
+    "rating": 1152,
+    "type": "mcq",
+    "q": "Absolute zero is…",
+    "a": [
+      "0 K",
+      "0 °C",
+      "−100 °C",
+      "273 K"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1019,
+    "type": "numeric",
+    "q": "Tangential speed for ω=2 rad/s, R=1 m (m/s)?",
+    "answer": "2"
+  },
+  {
+    "rating": 879,
+    "type": "numeric",
+    "q": "An object travels 55.0 m in 17.4 s at constant speed. Average velocity (m/s)?",
+    "answer": "3.16"
+  },
+  {
+    "rating": 1233,
+    "type": "numeric",
+    "q": "Mass-spring (m=1 kg, k=100 N/m). Frequency (Hz)?",
+    "answer": "1.59"
+  },
+  {
+    "rating": 968,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1285,
+    "type": "numeric",
+    "q": "Ohm’s law: V=9 V across R=12 Ω. Current I (A)?",
+    "answer": "0.75"
+  },
+  {
+    "rating": 1259,
+    "type": "mcq",
+    "q": "Moment of inertia of a solid disc about center is…",
+    "a": [
+      "(1/2)MR²",
+      "(1/3)ML²",
+      "MR²",
+      "(2/5)MR²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1421,
+    "type": "numeric",
+    "q": "Impulse from F=20 N applied for t=2 s. J (N·s)?",
+    "answer": "40"
+  },
+  {
+    "rating": 1297,
+    "type": "numeric",
+    "q": "Wave with f=6.35 Hz and λ=0.34 m. Speed v (m/s)?",
+    "answer": "2.16"
+  },
+  {
+    "rating": 881,
+    "type": "numeric",
+    "q": "Torque from F=5 N at lever arm r=1.0 m ⟂. τ (N·m)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 867,
+    "type": "numeric",
+    "q": "Wave with f=6.93 Hz and λ=0.98 m. Speed v (m/s)?",
+    "answer": "6.79"
+  },
+  {
+    "rating": 612,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1456,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1214,
+    "type": "numeric",
+    "q": "Tangential speed for ω=10 rad/s, R=2 m (m/s)?",
+    "answer": "20"
+  },
+  {
+    "rating": 993,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=20 m/s, R=4 m (m/s²)?",
+    "answer": "100.0"
+  },
+  {
+    "rating": 902,
+    "type": "numeric",
+    "q": "Gravitational PE for m=5 kg at h=4 m (g=9.8). PE (J)?",
+    "answer": "196.0"
+  },
+  {
+    "rating": 1270,
+    "type": "numeric",
+    "q": "Rotational KE for I=1 kg·m² and ω=4 rad/s. K (J)?",
+    "answer": "8.0"
+  },
+  {
+    "rating": 1123,
+    "type": "numeric",
+    "q": "m1=2 kg at v=4 m/s hits m2=1 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "8.0"
+  },
+  {
+    "rating": 591,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1467,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=10 m/s, R=2 m (m/s²)?",
+    "answer": "50.0"
+  },
+  {
+    "rating": 1242,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 883,
+    "type": "numeric",
+    "q": "Impulse from F=20 N applied for t=2 s. J (N·s)?",
+    "answer": "40"
+  },
+  {
+    "rating": 619,
+    "type": "numeric",
+    "q": "Displacement for v₀=10 m/s, a=2 m/s², t=4 s. Δx (m)?",
+    "answer": "56.0"
+  },
+  {
+    "rating": 1547,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=20 m/s, R=4 m (m/s²)?",
+    "answer": "100.0"
+  },
+  {
+    "rating": 629,
+    "type": "numeric",
+    "q": "A mass m=2 kg accelerates at a=3 m/s². Net force (N)?",
+    "answer": "6"
+  },
+  {
+    "rating": 1048,
+    "type": "numeric",
+    "q": "Simple pendulum length L=1.0 m (g=9.8). Period T (s)?",
+    "answer": "2.01"
+  },
+  {
+    "rating": 526,
+    "type": "numeric",
+    "q": "An object travels 111.9 m in 7.9 s at constant speed. Average velocity (m/s)?",
+    "answer": "14.16"
+  },
+  {
+    "rating": 992,
+    "type": "numeric",
+    "q": "Tangential speed for ω=5 rad/s, R=0.5 m (m/s)?",
+    "answer": "2.5"
+  },
+  {
+    "rating": 1808,
+    "type": "numeric",
+    "q": "Force on q=e moving ⟂ to B=0.2 T at v=2e+06 m/s. F (N)?",
+    "answer": "0.0"
+  },
+  {
+    "rating": 847,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=20 m/s, R=5 m (m/s²)?",
+    "answer": "80.0"
+  },
+  {
+    "rating": 1511,
+    "type": "numeric",
+    "q": "Torque from F=10 N at lever arm r=0.2 m ⟂. τ (N·m)?",
+    "answer": "2.0"
+  },
+  {
+    "rating": 905,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1325,
+    "type": "numeric",
+    "q": "Simple pendulum length L=1.0 m (g=9.8). Period T (s)?",
+    "answer": "2.01"
+  },
+  {
+    "rating": 906,
+    "type": "numeric",
+    "q": "Work by F=20 N over d=3 m parallel. W (J)?",
+    "answer": "60"
+  },
+  {
+    "rating": 924,
+    "type": "numeric",
+    "q": "Gravitational PE for m=5 kg at h=10 m (g=9.8). PE (J)?",
+    "answer": "490.0"
+  },
+  {
+    "rating": 973,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1143,
+    "type": "numeric",
+    "q": "Impulse from F=10 N applied for t=0.5 s. J (N·s)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 1349,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1154,
+    "type": "numeric",
+    "q": "Mass m=4 kg accelerating upward at 1 m/s². Tension in rope (N)?",
+    "answer": "43.2"
+  },
+  {
+    "rating": 813,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1199,
+    "type": "numeric",
+    "q": "A mass m=5 kg accelerates at a=2 m/s². Net force (N)?",
+    "answer": "10"
+  },
+  {
+    "rating": 954,
+    "type": "numeric",
+    "q": "Two resistors 4 Ω and 6 Ω in series. Equivalent (Ω)?",
+    "answer": "10"
+  },
+  {
+    "rating": 862,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1059,
+    "type": "numeric",
+    "q": "An object travels 129.8 m in 5.6 s at constant speed. Average velocity (m/s)?",
+    "answer": "23.18"
+  },
+  {
+    "rating": 1352,
+    "type": "numeric",
+    "q": "Heat Q to raise 2 kg substance (c=3900 J/kg·K) by 10 K. Q (J)?",
+    "answer": "78000"
+  },
+  {
+    "rating": 693,
+    "type": "numeric",
+    "q": "Displacement for v₀=0 m/s, a=1 m/s², t=3 s. Δx (m)?",
+    "answer": "4.5"
+  },
+  {
+    "rating": 1364,
+    "type": "numeric",
+    "q": "Rotational KE for I=0.5 kg·m² and ω=2 rad/s. K (J)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1353,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1093,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1402,
+    "type": "numeric",
+    "q": "Electrical power with V=12 V and I=0.73 A. P (W)?",
+    "answer": "8.76"
+  },
+  {
+    "rating": 858,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1172,
+    "type": "numeric",
+    "q": "Simple pendulum length L=2.0 m (g=9.8). Period T (s)?",
+    "answer": "2.84"
+  },
+  {
+    "rating": 842,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1278,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1139,
+    "type": "mcq",
+    "q": "First Law of Thermodynamics…",
+    "a": [
+      "ΔU=Q−W",
+      "ΔU=Q+W",
+      "W=Q−ΔU",
+      "Q=W"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1553,
+    "type": "mcq",
+    "q": "Moment of inertia of a solid disc about center is…",
+    "a": [
+      "(1/2)MR²",
+      "(1/3)ML²",
+      "MR²",
+      "(2/5)MR²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1218,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1058,
+    "type": "numeric",
+    "q": "Ohm’s law: V=24 V across R=4 Ω. Current I (A)?",
+    "answer": "6.0"
+  },
+  {
+    "rating": 886,
+    "type": "numeric",
+    "q": "Mass-spring (m=0.5 kg, k=50 N/m). Frequency (Hz)?",
+    "answer": "1.59"
+  },
+  {
+    "rating": 982,
+    "type": "numeric",
+    "q": "Power for W=500 J over t=10 s. P (W)?",
+    "answer": "50.0"
+  },
+  {
+    "rating": 1030,
+    "type": "numeric",
+    "q": "An object travels 123.6 m in 15.8 s at constant speed. Average velocity (m/s)?",
+    "answer": "7.82"
+  },
+  {
+    "rating": 1388,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 972,
+    "type": "numeric",
+    "q": "Displacement for v₀=0 m/s, a=2 m/s², t=5 s. Δx (m)?",
+    "answer": "25.0"
+  },
+  {
+    "rating": 998,
+    "type": "numeric",
+    "q": "Friction force with μ=0.57 and normal force 50 N. F_f (N)?",
+    "answer": "28.5"
+  },
+  {
+    "rating": 1456,
+    "type": "numeric",
+    "q": "Impulse from F=10 N applied for t=0.5 s. J (N·s)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 1242,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 968,
+    "type": "numeric",
+    "q": "Weight of m=5 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "49.0"
+  },
+  {
+    "rating": 1448,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1120,
+    "type": "numeric",
+    "q": "A mass m=2 kg accelerates at a=2 m/s². Net force (N)?",
+    "answer": "4"
+  },
+  {
+    "rating": 963,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 2 Ω in parallel. Equivalent (Ω)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 1170,
+    "type": "mcq",
+    "q": "During a phase change at constant pressure, temperature…",
+    "a": [
+      "stays constant",
+      "increases linearly",
+      "decreases",
+      "oscillates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1295,
+    "type": "numeric",
+    "q": "Gravitational PE for m=1 kg at h=3 m (g=9.8). PE (J)?",
+    "answer": "29.4"
+  },
+  {
+    "rating": 1169,
+    "type": "numeric",
+    "q": "Weight of m=1 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "9.8"
+  },
+  {
+    "rating": 1210,
+    "type": "numeric",
+    "q": "Torque from F=20 N at lever arm r=0.5 m ⟂. τ (N·m)?",
+    "answer": "10.0"
+  },
+  {
+    "rating": 1348,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 986,
+    "type": "numeric",
+    "q": "Work by F=10 N over d=3 m parallel. W (J)?",
+    "answer": "30"
+  },
+  {
+    "rating": 1451,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 3 Ω in series. Equivalent (Ω)?",
+    "answer": "5"
+  },
+  {
+    "rating": 1049,
+    "type": "mcq",
+    "q": "Faraday’s law says induced emf is proportional to…",
+    "a": [
+      "rate of change of flux",
+      "magnitude of B only",
+      "area only",
+      "charge density"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 975,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1441,
+    "type": "numeric",
+    "q": "Mass-spring (m=1 kg, k=50 N/m). Frequency (Hz)?",
+    "answer": "1.13"
+  },
+  {
+    "rating": 1446,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1215,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=5 m/s, R=4 m (m/s²)?",
+    "answer": "6.25"
+  },
+  {
+    "rating": 1223,
+    "type": "numeric",
+    "q": "Mass-spring (m=2 kg, k=50 N/m). Frequency (Hz)?",
+    "answer": "0.8"
+  },
+  {
+    "rating": 1010,
+    "type": "numeric",
+    "q": "Gravitational PE for m=1 kg at h=10 m (g=9.8). PE (J)?",
+    "answer": "98.0"
+  },
+  {
+    "rating": 831,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1156,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 3 Ω in series. Equivalent (Ω)?",
+    "answer": "5"
+  },
+  {
+    "rating": 984,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 980,
+    "type": "numeric",
+    "q": "Tangential speed for ω=10 rad/s, R=2 m (m/s)?",
+    "answer": "20"
+  },
+  {
+    "rating": 1158,
+    "type": "numeric",
+    "q": "Wave with f=7.76 Hz and λ=1.1 m. Speed v (m/s)?",
+    "answer": "8.54"
+  },
+  {
+    "rating": 900,
+    "type": "numeric",
+    "q": "For frequency f=1.84 Hz, period T (s)?",
+    "answer": "0.54"
+  },
+  {
+    "rating": 988,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 546,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1106,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=6 rad/s. K (J)?",
+    "answer": "36.0"
+  },
+  {
+    "rating": 896,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1023,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1231,
+    "type": "numeric",
+    "q": "Power for W=200 J over t=2 s. P (W)?",
+    "answer": "100.0"
+  },
+  {
+    "rating": 773,
+    "type": "numeric",
+    "q": "Gravitational PE for m=3 kg at h=2 m (g=9.8). PE (J)?",
+    "answer": "58.8"
+  },
+  {
+    "rating": 842,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=20 m/s, R=4 m (m/s²)?",
+    "answer": "100.0"
+  },
+  {
+    "rating": 611,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1254,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 527,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=0 m/s, a=3 m/s², Δx=10 m. v_f (m/s)?",
+    "answer": "7.75"
+  },
+  {
+    "rating": 981,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1223,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.037 m², B=0.49 T, θ=0°. Φ (Wb)?",
+    "answer": "0.018"
+  },
+  {
+    "rating": 975,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1164,
+    "type": "numeric",
+    "q": "Mass-spring (m=0.5 kg, k=50 N/m). Frequency (Hz)?",
+    "answer": "1.59"
+  },
+  {
+    "rating": 1323,
+    "type": "numeric",
+    "q": "Wave with f=8.21 Hz and λ=1.68 m. Speed v (m/s)?",
+    "answer": "13.79"
+  },
+  {
+    "rating": 1332,
+    "type": "numeric",
+    "q": "Centripetal force for m=5 kg, v=5 m/s, R=6 m (N)?",
+    "answer": "20.83"
+  },
+  {
+    "rating": 1295,
+    "type": "numeric",
+    "q": "Component of weight down a θ=53° incline for m=2 kg. Value (N)?",
+    "answer": "15.7"
+  },
+  {
+    "rating": 1166,
+    "type": "numeric",
+    "q": "Heat Q to raise 2 kg substance (c=900 J/kg·K) by 20 K. Q (J)?",
+    "answer": "36000"
+  },
+  {
+    "rating": 1202,
+    "type": "numeric",
+    "q": "A mass m=5 kg accelerates at a=3 m/s². Net force (N)?",
+    "answer": "15"
+  },
+  {
+    "rating": 1469,
+    "type": "numeric",
+    "q": "Impulse from F=50 N applied for t=0.5 s. J (N·s)?",
+    "answer": "25.0"
+  },
+  {
+    "rating": 623,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 989,
+    "type": "numeric",
+    "q": "Component of weight down a θ=37° incline for m=10 kg. Value (N)?",
+    "answer": "59.0"
+  },
+  {
+    "rating": 992,
+    "type": "mcq",
+    "q": "Right-hand rule gives the direction of…",
+    "a": [
+      "magnetic force/field",
+      "electric field only",
+      "current magnitude",
+      "charge sign"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 940,
+    "type": "mcq",
+    "q": "Faraday’s law says induced emf is proportional to…",
+    "a": [
+      "rate of change of flux",
+      "magnitude of B only",
+      "area only",
+      "charge density"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 776,
+    "type": "numeric",
+    "q": "A mass m=5 kg accelerates at a=3 m/s². Net force (N)?",
+    "answer": "15"
+  },
+  {
+    "rating": 1007,
+    "type": "numeric",
+    "q": "Impulse from F=50 N applied for t=1 s. J (N·s)?",
+    "answer": "50"
+  },
+  {
+    "rating": 1013,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 658,
+    "type": "numeric",
+    "q": "A mass m=4 kg accelerates at a=1 m/s². Net force (N)?",
+    "answer": "4"
+  },
+  {
+    "rating": 731,
+    "type": "numeric",
+    "q": "m1=1 kg at v=4 m/s hits m2=3 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "1.33"
+  },
+  {
+    "rating": 1057,
+    "type": "numeric",
+    "q": "An object travels 101.3 m in 15.6 s at constant speed. Average velocity (m/s)?",
+    "answer": "6.49"
+  },
+  {
+    "rating": 1098,
+    "type": "numeric",
+    "q": "Rotational KE for I=0.5 kg·m² and ω=6 rad/s. K (J)?",
+    "answer": "9.0"
+  },
+  {
+    "rating": 1154,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1567,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1404,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 737,
+    "type": "numeric",
+    "q": "Mass m=2 kg accelerating upward at 2 m/s². Tension in rope (N)?",
+    "answer": "23.6"
+  },
+  {
+    "rating": 1154,
+    "type": "numeric",
+    "q": "Simple pendulum length L=0.5 m (g=9.8). Period T (s)?",
+    "answer": "1.42"
+  },
+  {
+    "rating": 708,
+    "type": "numeric",
+    "q": "Component of weight down a θ=45° incline for m=5 kg. Value (N)?",
+    "answer": "34.6"
+  },
+  {
+    "rating": 1432,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1446,
+    "type": "numeric",
+    "q": "Impulse from F=10 N applied for t=2 s. J (N·s)?",
+    "answer": "20"
+  },
+  {
+    "rating": 951,
+    "type": "numeric",
+    "q": "Weight of m=5 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "49.0"
+  },
+  {
+    "rating": 909,
+    "type": "numeric",
+    "q": "A mass m=10 kg accelerates at a=2 m/s². Net force (N)?",
+    "answer": "20"
+  },
+  {
+    "rating": 1222,
+    "type": "numeric",
+    "q": "Gravitational PE for m=2 kg at h=4 m (g=9.8). PE (J)?",
+    "answer": "78.4"
+  },
+  {
+    "rating": 1195,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=0 m/s, a=4 m/s², Δx=20 m. v_f (m/s)?",
+    "answer": "12.65"
+  },
+  {
+    "rating": 1387,
+    "type": "numeric",
+    "q": "Electrical power with V=24 V and I=1.44 A. P (W)?",
+    "answer": "34.56"
+  },
+  {
+    "rating": 774,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1111,
+    "type": "numeric",
+    "q": "Displacement for v₀=10 m/s, a=2 m/s², t=3 s. Δx (m)?",
+    "answer": "39.0"
+  },
+  {
+    "rating": 969,
+    "type": "numeric",
+    "q": "Gravitational PE for m=2 kg at h=3 m (g=9.8). PE (J)?",
+    "answer": "58.8"
+  },
+  {
+    "rating": 734,
+    "type": "numeric",
+    "q": "Work by F=5 N over d=3 m parallel. W (J)?",
+    "answer": "15"
+  },
+  {
+    "rating": 759,
+    "type": "numeric",
+    "q": "Momentum of m=2 kg moving at v=5 m/s (kg·m/s)?",
+    "answer": "10"
+  },
+  {
+    "rating": 948,
+    "type": "numeric",
+    "q": "Torque from F=10 N at lever arm r=0.5 m ⟂. τ (N·m)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 956,
+    "type": "numeric",
+    "q": "Mass m=4 kg accelerating upward at 0 m/s². Tension in rope (N)?",
+    "answer": "39.2"
+  },
+  {
+    "rating": 1375,
+    "type": "numeric",
+    "q": "Ohm’s law: V=6 V across R=3 Ω. Current I (A)?",
+    "answer": "2.0"
+  },
+  {
+    "rating": 1428,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 797,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=2 m/s, a=1 m/s², Δx=40 m. v_f (m/s)?",
+    "answer": "9.17"
+  },
+  {
+    "rating": 1062,
+    "type": "numeric",
+    "q": "Ohm’s law: V=12 V across R=12 Ω. Current I (A)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 1423,
+    "type": "numeric",
+    "q": "Electrical power with V=5 V and I=2.93 A. P (W)?",
+    "answer": "14.65"
+  },
+  {
+    "rating": 659,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 922,
+    "type": "numeric",
+    "q": "For frequency f=3.73 Hz, period T (s)?",
+    "answer": "0.27"
+  },
+  {
+    "rating": 1277,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 914,
+    "type": "numeric",
+    "q": "Component of weight down a θ=53° incline for m=2 kg. Value (N)?",
+    "answer": "15.7"
+  },
+  {
+    "rating": 1466,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1024,
+    "type": "numeric",
+    "q": "Two resistors 4 Ω and 6 Ω in series. Equivalent (Ω)?",
+    "answer": "10"
+  },
+  {
+    "rating": 864,
+    "type": "numeric",
+    "q": "Power for W=500 J over t=10 s. P (W)?",
+    "answer": "50.0"
+  },
+  {
+    "rating": 1243,
+    "type": "numeric",
+    "q": "Mass m=2 kg accelerating upward at 1 m/s². Tension in rope (N)?",
+    "answer": "21.6"
+  },
+  {
+    "rating": 990,
+    "type": "numeric",
+    "q": "An object travels 136.7 m in 18.3 s at constant speed. Average velocity (m/s)?",
+    "answer": "7.47"
+  },
+  {
+    "rating": 1294,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1027,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=2 m/s, a=2 m/s², Δx=40 m. v_f (m/s)?",
+    "answer": "12.81"
+  },
+  {
+    "rating": 1498,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=10 m/s, R=4 m (m/s²)?",
+    "answer": "25.0"
+  },
+  {
+    "rating": 852,
+    "type": "numeric",
+    "q": "For frequency f=3.88 Hz, period T (s)?",
+    "answer": "0.26"
+  },
+  {
+    "rating": 725,
+    "type": "numeric",
+    "q": "Friction force with μ=0.48 and normal force 50 N. F_f (N)?",
+    "answer": "24.0"
+  },
+  {
+    "rating": 1491,
+    "type": "mcq",
+    "q": "First Law of Thermodynamics…",
+    "a": [
+      "ΔU=Q−W",
+      "ΔU=Q+W",
+      "W=Q−ΔU",
+      "Q=W"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1353,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=5 m/s, R=4 m (m/s²)?",
+    "answer": "6.25"
+  },
+  {
+    "rating": 964,
+    "type": "numeric",
+    "q": "Mass m=4 kg accelerating upward at 1 m/s². Tension in rope (N)?",
+    "answer": "43.2"
+  },
+  {
+    "rating": 922,
+    "type": "numeric",
+    "q": "Mass m=8 kg accelerating upward at 2 m/s². Tension in rope (N)?",
+    "answer": "94.4"
+  },
+  {
+    "rating": 1569,
+    "type": "mcq",
+    "q": "Right-hand rule gives the direction of…",
+    "a": [
+      "magnetic force/field",
+      "electric field only",
+      "current magnitude",
+      "charge sign"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 882,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 662,
+    "type": "numeric",
+    "q": "Work by F=5 N over d=5 m parallel. W (J)?",
+    "answer": "25"
+  },
+  {
+    "rating": 919,
+    "type": "numeric",
+    "q": "Rotational KE for I=1 kg·m² and ω=4 rad/s. K (J)?",
+    "answer": "8.0"
+  },
+  {
+    "rating": 1456,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 917,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 870,
+    "type": "numeric",
+    "q": "A mass m=10 kg accelerates at a=2 m/s². Net force (N)?",
+    "answer": "20"
+  },
+  {
+    "rating": 1224,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 4 Ω in parallel. Equivalent (Ω)?",
+    "answer": "1.33"
+  },
+  {
+    "rating": 807,
+    "type": "numeric",
+    "q": "For frequency f=3.28 Hz, period T (s)?",
+    "answer": "0.3"
+  },
+  {
+    "rating": 1151,
+    "type": "numeric",
+    "q": "Rotational KE for I=0.5 kg·m² and ω=6 rad/s. K (J)?",
+    "answer": "9.0"
+  },
+  {
+    "rating": 1421,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1526,
+    "type": "mcq",
+    "q": "Ideal gas law is…",
+    "a": [
+      "PV=nRT",
+      "P=ρgh",
+      "Q=mcΔT",
+      "W=Fd"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 787,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1029,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=2 rad/s. K (J)?",
+    "answer": "4.0"
+  },
+  {
+    "rating": 1058,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=5 m/s, a=4 m/s², Δx=20 m. v_f (m/s)?",
+    "answer": "13.6"
+  },
+  {
+    "rating": 894,
+    "type": "numeric",
+    "q": "Rotational KE for I=1 kg·m² and ω=2 rad/s. K (J)?",
+    "answer": "2.0"
+  },
+  {
+    "rating": 950,
+    "type": "numeric",
+    "q": "Field in solenoid (μ₀=1.3e-06, n=200/0.1 m, I=1.73 A). B (T)?",
+    "answer": "0.004348"
+  },
+  {
+    "rating": 1859,
+    "type": "numeric",
+    "q": "Field in solenoid (μ₀=1.3e-06, n=100/0.1 m, I=0.25 A). B (T)?",
+    "answer": "0.000314"
+  },
+  {
+    "rating": 1337,
+    "type": "mcq",
+    "q": "First Law of Thermodynamics…",
+    "a": [
+      "ΔU=Q−W",
+      "ΔU=Q+W",
+      "W=Q−ΔU",
+      "Q=W"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 575,
+    "type": "numeric",
+    "q": "An object travels 170.1 m in 13.6 s at constant speed. Average velocity (m/s)?",
+    "answer": "12.51"
+  },
+  {
+    "rating": 973,
+    "type": "mcq",
+    "q": "Faraday’s law says induced emf is proportional to…",
+    "a": [
+      "rate of change of flux",
+      "magnitude of B only",
+      "area only",
+      "charge density"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 945,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 634,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1036,
+    "type": "numeric",
+    "q": "Momentum of m=1 kg moving at v=5 m/s (kg·m/s)?",
+    "answer": "5"
+  },
+  {
+    "rating": 1233,
+    "type": "numeric",
+    "q": "A mass m=2 kg accelerates at a=1 m/s². Net force (N)?",
+    "answer": "2"
+  },
+  {
+    "rating": 1225,
+    "type": "numeric",
+    "q": "KE of m=3 kg moving at v=6 m/s. KE (J)?",
+    "answer": "54.0"
+  },
+  {
+    "rating": 917,
+    "type": "numeric",
+    "q": "A mass m=2 kg accelerates at a=3 m/s². Net force (N)?",
+    "answer": "6"
+  },
+  {
+    "rating": 1576,
+    "type": "mcq",
+    "q": "During a phase change at constant pressure, temperature…",
+    "a": [
+      "stays constant",
+      "increases linearly",
+      "decreases",
+      "oscillates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1355,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1115,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 845,
+    "type": "numeric",
+    "q": "Mass m=8 kg accelerating upward at 0 m/s². Tension in rope (N)?",
+    "answer": "78.4"
+  },
+  {
+    "rating": 870,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=4 rad/s. K (J)?",
+    "answer": "16.0"
+  },
+  {
+    "rating": 941,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=6 rad/s. K (J)?",
+    "answer": "36.0"
+  },
+  {
+    "rating": 990,
+    "type": "numeric",
+    "q": "Displacement for v₀=10 m/s, a=1 m/s², t=4 s. Δx (m)?",
+    "answer": "48.0"
+  },
+  {
+    "rating": 1161,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 919,
+    "type": "numeric",
+    "q": "Weight of m=2 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "19.6"
+  },
+  {
+    "rating": 1520,
+    "type": "mcq",
+    "q": "During a phase change at constant pressure, temperature…",
+    "a": [
+      "stays constant",
+      "increases linearly",
+      "decreases",
+      "oscillates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 605,
+    "type": "numeric",
+    "q": "Friction force with μ=0.51 and normal force 100 N. F_f (N)?",
+    "answer": "51.0"
+  },
+  {
+    "rating": 990,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1277,
+    "type": "numeric",
+    "q": "Ohm’s law: V=6 V across R=4 Ω. Current I (A)?",
+    "answer": "1.5"
+  },
+  {
+    "rating": 1069,
+    "type": "numeric",
+    "q": "Displacement for v₀=10 m/s, a=3 m/s², t=5 s. Δx (m)?",
+    "answer": "87.5"
+  },
+  {
+    "rating": 1180,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1088,
+    "type": "numeric",
+    "q": "Displacement for v₀=3 m/s, a=3 m/s², t=3 s. Δx (m)?",
+    "answer": "22.5"
+  },
+  {
+    "rating": 839,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 910,
+    "type": "numeric",
+    "q": "Electrical power with V=9 V and I=0.53 A. P (W)?",
+    "answer": "4.77"
+  },
+  {
+    "rating": 977,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 830,
+    "type": "numeric",
+    "q": "KE of m=5 kg moving at v=2 m/s. KE (J)?",
+    "answer": "10.0"
+  },
+  {
+    "rating": 977,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 774,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1239,
+    "type": "numeric",
+    "q": "Impulse from F=50 N applied for t=0.5 s. J (N·s)?",
+    "answer": "25.0"
+  },
+  {
+    "rating": 831,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 885,
+    "type": "numeric",
+    "q": "An object travels 192.6 m in 9.0 s at constant speed. Average velocity (m/s)?",
+    "answer": "21.4"
+  },
+  {
+    "rating": 928,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.018 m², B=0.3 T, θ=90°. Φ (Wb)?",
+    "answer": "0.0"
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1171,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1377,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=10 m/s, R=5 m (m/s²)?",
+    "answer": "20.0"
+  },
+  {
+    "rating": 850,
+    "type": "numeric",
+    "q": "Two resistors 4 Ω and 12 Ω in parallel. Equivalent (Ω)?",
+    "answer": "3.0"
+  },
+  {
+    "rating": 1102,
+    "type": "mcq",
+    "q": "Work–energy theorem states…",
+    "a": [
+      "W_net = ΔK",
+      "W=mg",
+      "P=W/t",
+      "ΔU=−W_nc"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 605,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1546,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 550,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 862,
+    "type": "numeric",
+    "q": "m1=2 kg at v=4 m/s hits m2=2 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "4.0"
+  },
+  {
+    "rating": 1399,
+    "type": "numeric",
+    "q": "Power for W=500 J over t=2 s. P (W)?",
+    "answer": "250.0"
+  },
+  {
+    "rating": 1266,
+    "type": "numeric",
+    "q": "Field in solenoid (μ₀=1.3e-06, n=500/0.1 m, I=1.09 A). B (T)?",
+    "answer": "0.006849"
+  },
+  {
+    "rating": 1690,
+    "type": "numeric",
+    "q": "Electrical power with V=24 V and I=1.84 A. P (W)?",
+    "answer": "44.16"
+  },
+  {
+    "rating": 876,
+    "type": "numeric",
+    "q": "Ohm’s law: V=12 V across R=12 Ω. Current I (A)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 1154,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1261,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1447,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1131,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.053 m², B=0.47 T, θ=60°. Φ (Wb)?",
+    "answer": "0.012"
+  },
+  {
+    "rating": 855,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=2 rad/s. K (J)?",
+    "answer": "4.0"
+  },
+  {
+    "rating": 895,
+    "type": "numeric",
+    "q": "Momentum of m=2 kg moving at v=5 m/s (kg·m/s)?",
+    "answer": "10"
+  },
+  {
+    "rating": 844,
+    "type": "numeric",
+    "q": "Displacement for v₀=3 m/s, a=3 m/s², t=2 s. Δx (m)?",
+    "answer": "12.0"
+  },
+  {
+    "rating": 1500,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1304,
+    "type": "mcq",
+    "q": "Moment of inertia of a solid disc about center is…",
+    "a": [
+      "(1/2)MR²",
+      "(1/3)ML²",
+      "MR²",
+      "(2/5)MR²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 775,
+    "type": "numeric",
+    "q": "An object travels 26.0 m in 13.8 s at constant speed. Average velocity (m/s)?",
+    "answer": "1.88"
+  },
+  {
+    "rating": 996,
+    "type": "numeric",
+    "q": "Two resistors 4 Ω and 12 Ω in parallel. Equivalent (Ω)?",
+    "answer": "3.0"
+  },
+  {
+    "rating": 1091,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=0 m/s, a=3 m/s², Δx=20 m. v_f (m/s)?",
+    "answer": "10.95"
+  },
+  {
+    "rating": 1160,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1112,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.021 m², B=0.49 T, θ=90°. Φ (Wb)?",
+    "answer": "0.0"
+  },
+  {
+    "rating": 1455,
+    "type": "numeric",
+    "q": "Tangential speed for ω=10 rad/s, R=1 m (m/s)?",
+    "answer": "10"
+  },
+  {
+    "rating": 1054,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1564,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=4 rad/s. K (J)?",
+    "answer": "16.0"
+  },
+  {
+    "rating": 1055,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.051 m², B=0.46 T, θ=0°. Φ (Wb)?",
+    "answer": "0.023"
+  },
+  {
+    "rating": 1050,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=2 m/s, a=4 m/s², Δx=10 m. v_f (m/s)?",
+    "answer": "9.17"
+  },
+  {
+    "rating": 901,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 962,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 621,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=5 m/s, a=1 m/s², Δx=10 m. v_f (m/s)?",
+    "answer": "6.71"
+  },
+  {
+    "rating": 1187,
+    "type": "numeric",
+    "q": "Wave with f=4.13 Hz and λ=1.85 m. Speed v (m/s)?",
+    "answer": "7.64"
+  },
+  {
+    "rating": 745,
+    "type": "numeric",
+    "q": "An object travels 130.6 m in 4.0 s at constant speed. Average velocity (m/s)?",
+    "answer": "32.65"
+  },
+  {
+    "rating": 1210,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=5 m/s, R=2 m (m/s²)?",
+    "answer": "12.5"
+  },
+  {
+    "rating": 839,
+    "type": "numeric",
+    "q": "m1=3 kg at v=3 m/s hits m2=2 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "4.5"
+  },
+  {
+    "rating": 909,
+    "type": "numeric",
+    "q": "Power for W=200 J over t=5 s. P (W)?",
+    "answer": "40.0"
+  },
+  {
+    "rating": 1099,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=2 rad/s. K (J)?",
+    "answer": "4.0"
+  },
+  {
+    "rating": 813,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1233,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1578,
+    "type": "numeric",
+    "q": "Two resistors 4 Ω and 6 Ω in series. Equivalent (Ω)?",
+    "answer": "10"
+  },
+  {
+    "rating": 1606,
+    "type": "mcq",
+    "q": "Faraday’s law says induced emf is proportional to…",
+    "a": [
+      "rate of change of flux",
+      "magnitude of B only",
+      "area only",
+      "charge density"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 905,
+    "type": "numeric",
+    "q": "Two resistors 4 Ω and 6 Ω in series. Equivalent (Ω)?",
+    "answer": "10"
+  },
+  {
+    "rating": 1031,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1206,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 955,
+    "type": "numeric",
+    "q": "An object travels 114.9 m in 11.4 s at constant speed. Average velocity (m/s)?",
+    "answer": "10.08"
+  },
+  {
+    "rating": 1011,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 3 Ω in series. Equivalent (Ω)?",
+    "answer": "5"
+  },
+  {
+    "rating": 545,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1114,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1164,
+    "type": "numeric",
+    "q": "Electrical power with V=12 V and I=2.42 A. P (W)?",
+    "answer": "29.04"
+  },
+  {
+    "rating": 1855,
+    "type": "numeric",
+    "q": "Force on q=e moving ⟂ to B=0.5 T at v=3e+06 m/s. F (N)?",
+    "answer": "0.0"
+  },
+  {
+    "rating": 841,
+    "type": "numeric",
+    "q": "Momentum of m=1 kg moving at v=5 m/s (kg·m/s)?",
+    "answer": "5"
+  },
+  {
+    "rating": 1171,
+    "type": "mcq",
+    "q": "During a phase change at constant pressure, temperature…",
+    "a": [
+      "stays constant",
+      "increases linearly",
+      "decreases",
+      "oscillates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1072,
+    "type": "numeric",
+    "q": "For frequency f=0.88 Hz, period T (s)?",
+    "answer": "1.14"
+  },
+  {
+    "rating": 1270,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 665,
+    "type": "numeric",
+    "q": "Friction force with μ=0.25 and normal force 20 N. F_f (N)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 1530,
+    "type": "mcq",
+    "q": "Moment of inertia of a solid disc about center is…",
+    "a": [
+      "(1/2)MR²",
+      "(1/3)ML²",
+      "MR²",
+      "(2/5)MR²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 856,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=2 m/s, a=1 m/s², Δx=20 m. v_f (m/s)?",
+    "answer": "6.63"
+  },
+  {
+    "rating": 902,
+    "type": "numeric",
+    "q": "Component of weight down a θ=45° incline for m=5 kg. Value (N)?",
+    "answer": "34.6"
+  },
+  {
+    "rating": 1022,
+    "type": "numeric",
+    "q": "Tangential speed for ω=10 rad/s, R=2 m (m/s)?",
+    "answer": "20"
+  },
+  {
+    "rating": 869,
+    "type": "mcq",
+    "q": "Moment of inertia of a solid disc about center is…",
+    "a": [
+      "(1/2)MR²",
+      "(1/3)ML²",
+      "MR²",
+      "(2/5)MR²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 642,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1315,
+    "type": "mcq",
+    "q": "Ideal gas law is…",
+    "a": [
+      "PV=nRT",
+      "P=ρgh",
+      "Q=mcΔT",
+      "W=Fd"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1695,
+    "type": "numeric",
+    "q": "Electrical power with V=5 V and I=0.58 A. P (W)?",
+    "answer": "2.9"
+  },
+  {
+    "rating": 1445,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=5 m/s, R=5 m (m/s²)?",
+    "answer": "5.0"
+  },
+  {
+    "rating": 987,
+    "type": "numeric",
+    "q": "Power for W=500 J over t=2 s. P (W)?",
+    "answer": "250.0"
+  },
+  {
+    "rating": 638,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 780,
+    "type": "numeric",
+    "q": "An object travels 172.6 m in 6.2 s at constant speed. Average velocity (m/s)?",
+    "answer": "27.84"
+  },
+  {
+    "rating": 1279,
+    "type": "numeric",
+    "q": "Centripetal force for m=2 kg, v=5 m/s, R=6 m (N)?",
+    "answer": "8.33"
+  },
+  {
+    "rating": 766,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1145,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1217,
+    "type": "numeric",
+    "q": "Simple pendulum length L=2.0 m (g=9.8). Period T (s)?",
+    "answer": "2.84"
+  },
+  {
+    "rating": 1152,
+    "type": "numeric",
+    "q": "Weight of m=2 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "19.6"
+  },
+  {
+    "rating": 1204,
+    "type": "numeric",
+    "q": "Simple pendulum length L=1.0 m (g=9.8). Period T (s)?",
+    "answer": "2.01"
+  },
+  {
+    "rating": 1394,
+    "type": "numeric",
+    "q": "Simple pendulum length L=2.0 m (g=9.8). Period T (s)?",
+    "answer": "2.84"
+  },
+  {
+    "rating": 935,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1439,
+    "type": "mcq",
+    "q": "Ideal gas law is…",
+    "a": [
+      "PV=nRT",
+      "P=ρgh",
+      "Q=mcΔT",
+      "W=Fd"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1409,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1322,
+    "type": "numeric",
+    "q": "KE of m=5 kg moving at v=4 m/s. KE (J)?",
+    "answer": "40.0"
+  },
+  {
+    "rating": 1128,
+    "type": "numeric",
+    "q": "Wave with f=9.08 Hz and λ=0.28 m. Speed v (m/s)?",
+    "answer": "2.54"
+  },
+  {
+    "rating": 953,
+    "type": "numeric",
+    "q": "Two resistors 5 Ω and 10 Ω in series. Equivalent (Ω)?",
+    "answer": "15"
+  },
+  {
+    "rating": 937,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=5 m/s, R=4 m (m/s²)?",
+    "answer": "6.25"
+  },
+  {
+    "rating": 1120,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 997,
+    "type": "numeric",
+    "q": "Gravitational PE for m=2 kg at h=2 m (g=9.8). PE (J)?",
+    "answer": "39.2"
+  },
+  {
+    "rating": 1233,
+    "type": "numeric",
+    "q": "Simple pendulum length L=0.25 m (g=9.8). Period T (s)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 649,
+    "type": "numeric",
+    "q": "Displacement for v₀=0 m/s, a=1 m/s², t=2 s. Δx (m)?",
+    "answer": "2.0"
+  },
+  {
+    "rating": 1000,
+    "type": "numeric",
+    "q": "Wave with f=2.53 Hz and λ=0.92 m. Speed v (m/s)?",
+    "answer": "2.33"
+  },
+  {
+    "rating": 1074,
+    "type": "numeric",
+    "q": "Power for W=1000 J over t=5 s. P (W)?",
+    "answer": "200.0"
+  },
+  {
+    "rating": 1062,
+    "type": "numeric",
+    "q": "m1=3 kg at v=2 m/s hits m2=1 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "6.0"
+  },
+  {
+    "rating": 911,
+    "type": "numeric",
+    "q": "Wave with f=9.56 Hz and λ=0.12 m. Speed v (m/s)?",
+    "answer": "1.15"
+  },
+  {
+    "rating": 964,
+    "type": "numeric",
+    "q": "Component of weight down a θ=60° incline for m=2 kg. Value (N)?",
+    "answer": "17.0"
+  },
+  {
+    "rating": 1061,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1196,
+    "type": "mcq",
+    "q": "Pure rolling without slipping implies…",
+    "a": [
+      "v=ωR",
+      "v=R/ω",
+      "a=ω²R",
+      "v=ω/R"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 638,
+    "type": "mcq",
+    "q": "On a velocity–time graph, area under the curve represents…",
+    "a": [
+      "displacement",
+      "acceleration",
+      "jerk",
+      "power"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 838,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 990,
+    "type": "numeric",
+    "q": "Friction force with μ=0.41 and normal force 10 N. F_f (N)?",
+    "answer": "4.1"
+  },
+  {
+    "rating": 1338,
+    "type": "mcq",
+    "q": "For a wave, v = fλ means…",
+    "a": [
+      "speed equals frequency×wavelength",
+      "speed equals wavelength/frequency",
+      "frequency equals speed×wavelength",
+      "speed equals 1/(fλ)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1244,
+    "type": "numeric",
+    "q": "A mass m=10 kg accelerates at a=4 m/s². Net force (N)?",
+    "answer": "40"
+  },
+  {
+    "rating": 980,
+    "type": "mcq",
+    "q": "SI unit of acceleration is…",
+    "a": [
+      "m/s²",
+      "m/s",
+      "N",
+      "kg"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1170,
+    "type": "mcq",
+    "q": "In an elastic collision, which is conserved?",
+    "a": [
+      "momentum & kinetic energy",
+      "only momentum",
+      "only energy",
+      "neither"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 876,
+    "type": "numeric",
+    "q": "Impulse from F=50 N applied for t=1 s. J (N·s)?",
+    "answer": "50"
+  },
+  {
+    "rating": 1245,
+    "type": "numeric",
+    "q": "m1=3 kg at v=4 m/s hits m2=1 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "12.0"
+  },
+  {
+    "rating": 1029,
+    "type": "numeric",
+    "q": "Rotational KE for I=2 kg·m² and ω=2 rad/s. K (J)?",
+    "answer": "4.0"
+  },
+  {
+    "rating": 1254,
+    "type": "numeric",
+    "q": "Power for W=200 J over t=2 s. P (W)?",
+    "answer": "100.0"
+  },
+  {
+    "rating": 1313,
+    "type": "numeric",
+    "q": "Force on q=e moving ⟂ to B=0.5 T at v=3e+06 m/s. F (N)?",
+    "answer": "0.0"
+  },
+  {
+    "rating": 1358,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1196,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 922,
+    "type": "numeric",
+    "q": "Weight of m=1 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "9.8"
+  },
+  {
+    "rating": 1036,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1450,
+    "type": "numeric",
+    "q": "Force on q=e moving ⟂ to B=0.5 T at v=3e+06 m/s. F (N)?",
+    "answer": "0.0"
+  },
+  {
+    "rating": 1150,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=0 m/s, a=1 m/s², Δx=20 m. v_f (m/s)?",
+    "answer": "6.32"
+  },
+  {
+    "rating": 1047,
+    "type": "numeric",
+    "q": "A mass m=5 kg accelerates at a=3 m/s². Net force (N)?",
+    "answer": "15"
+  },
+  {
+    "rating": 794,
+    "type": "numeric",
+    "q": "Weight of m=5 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "49.0"
+  },
+  {
+    "rating": 1206,
+    "type": "numeric",
+    "q": "Ohm’s law: V=6 V across R=6 Ω. Current I (A)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 1174,
+    "type": "numeric",
+    "q": "A mass m=2 kg accelerates at a=2 m/s². Net force (N)?",
+    "answer": "4"
+  },
+  {
+    "rating": 1848,
+    "type": "numeric",
+    "q": "Force on q=e moving ⟂ to B=0.2 T at v=2e+06 m/s. F (N)?",
+    "answer": "0.0"
+  },
+  {
+    "rating": 826,
+    "type": "numeric",
+    "q": "For frequency f=3.21 Hz, period T (s)?",
+    "answer": "0.31"
+  },
+  {
+    "rating": 1391,
+    "type": "numeric",
+    "q": "KE of m=1 kg moving at v=4 m/s. KE (J)?",
+    "answer": "8.0"
+  },
+  {
+    "rating": 1164,
+    "type": "mcq",
+    "q": "Ideal gas law is…",
+    "a": [
+      "PV=nRT",
+      "P=ρgh",
+      "Q=mcΔT",
+      "W=Fd"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 879,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 3 Ω in series. Equivalent (Ω)?",
+    "answer": "5"
+  },
+  {
+    "rating": 1155,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1197,
+    "type": "mcq",
+    "q": "Ideal gas law is…",
+    "a": [
+      "PV=nRT",
+      "P=ρgh",
+      "Q=mcΔT",
+      "W=Fd"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1284,
+    "type": "numeric",
+    "q": "Simple pendulum length L=2.0 m (g=9.8). Period T (s)?",
+    "answer": "2.84"
+  },
+  {
+    "rating": 1161,
+    "type": "numeric",
+    "q": "Mass m=8 kg accelerating upward at 2 m/s². Tension in rope (N)?",
+    "answer": "94.4"
+  },
+  {
+    "rating": 1429,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1105,
+    "type": "numeric",
+    "q": "Gravitational PE for m=2 kg at h=4 m (g=9.8). PE (J)?",
+    "answer": "78.4"
+  },
+  {
+    "rating": 1455,
+    "type": "numeric",
+    "q": "Mass-spring (m=1 kg, k=200 N/m). Frequency (Hz)?",
+    "answer": "2.25"
+  },
+  {
+    "rating": 998,
+    "type": "numeric",
+    "q": "Friction force with μ=0.37 and normal force 50 N. F_f (N)?",
+    "answer": "18.5"
+  },
+  {
+    "rating": 1373,
+    "type": "numeric",
+    "q": "For frequency f=3.9 Hz, period T (s)?",
+    "answer": "0.26"
+  },
+  {
+    "rating": 1555,
+    "type": "numeric",
+    "q": "Mass-spring (m=2 kg, k=200 N/m). Frequency (Hz)?",
+    "answer": "1.59"
+  },
+  {
+    "rating": 1286,
+    "type": "numeric",
+    "q": "Wave with f=7.72 Hz and λ=2.0 m. Speed v (m/s)?",
+    "answer": "15.44"
+  },
+  {
+    "rating": 1362,
+    "type": "numeric",
+    "q": "Centripetal acceleration for v=10 m/s, R=5 m (m/s²)?",
+    "answer": "20.0"
+  },
+  {
+    "rating": 1093,
+    "type": "numeric",
+    "q": "Rotational KE for I=0.5 kg·m² and ω=6 rad/s. K (J)?",
+    "answer": "9.0"
+  },
+  {
+    "rating": 1599,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.059 m², B=0.35 T, θ=0°. Φ (Wb)?",
+    "answer": "0.021"
+  },
+  {
+    "rating": 943,
+    "type": "numeric",
+    "q": "For frequency f=1.58 Hz, period T (s)?",
+    "answer": "0.63"
+  },
+  {
+    "rating": 1422,
+    "type": "numeric",
+    "q": "Torque from F=20 N at lever arm r=0.5 m ⟂. τ (N·m)?",
+    "answer": "10.0"
+  },
+  {
+    "rating": 833,
+    "type": "numeric",
+    "q": "A mass m=2 kg accelerates at a=3 m/s². Net force (N)?",
+    "answer": "6"
+  },
+  {
+    "rating": 1179,
+    "type": "mcq",
+    "q": "In series circuits, current…",
+    "a": [
+      "is the same through each element",
+      "splits according to resistance",
+      "is zero in last element",
+      "is larger in larger resistance"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 786,
+    "type": "numeric",
+    "q": "Work by F=10 N over d=3 m parallel. W (J)?",
+    "answer": "30"
+  },
+  {
+    "rating": 1107,
+    "type": "numeric",
+    "q": "Two resistors 2 Ω and 2 Ω in parallel. Equivalent (Ω)?",
+    "answer": "1.0"
+  },
+  {
+    "rating": 1245,
+    "type": "numeric",
+    "q": "Work by F=10 N over d=2 m parallel. W (J)?",
+    "answer": "20"
+  },
+  {
+    "rating": 946,
+    "type": "numeric",
+    "q": "Impulse from F=20 N applied for t=2 s. J (N·s)?",
+    "answer": "40"
+  },
+  {
+    "rating": 1016,
+    "type": "numeric",
+    "q": "Using v_f²=v₀²+2aΔx with v₀=0 m/s, a=4 m/s², Δx=10 m. v_f (m/s)?",
+    "answer": "8.94"
+  },
+  {
+    "rating": 1263,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1465,
+    "type": "mcq",
+    "q": "In a perfectly inelastic collision…",
+    "a": [
+      "objects stick together",
+      "KE is conserved",
+      "momentum is lost",
+      "objects rebound with same speed"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 974,
+    "type": "mcq",
+    "q": "For uniform circular motion, velocity is…",
+    "a": [
+      "tangent to the circle",
+      "radially inward",
+      "radially outward",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 849,
+    "type": "numeric",
+    "q": "m1=1 kg at v=3 m/s hits m2=1 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "3.0"
+  },
+  {
+    "rating": 1509,
+    "type": "mcq",
+    "q": "During a phase change at constant pressure, temperature…",
+    "a": [
+      "stays constant",
+      "increases linearly",
+      "decreases",
+      "oscillates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1782,
+    "type": "numeric",
+    "q": "Magnetic flux through area A=0.096 m², B=0.21 T, θ=30°. Φ (Wb)?",
+    "answer": "0.017"
+  },
+  {
+    "rating": 1213,
+    "type": "numeric",
+    "q": "Component of weight down a θ=37° incline for m=2 kg. Value (N)?",
+    "answer": "11.8"
+  },
+  {
+    "rating": 1255,
+    "type": "numeric",
+    "q": "Momentum of m=2 kg moving at v=5 m/s (kg·m/s)?",
+    "answer": "10"
+  },
+  {
+    "rating": 995,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1355,
+    "type": "numeric",
+    "q": "Gravitational PE for m=3 kg at h=10 m (g=9.8). PE (J)?",
+    "answer": "294.0"
+  },
+  {
+    "rating": 722,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 982,
+    "type": "numeric",
+    "q": "Power for W=500 J over t=5 s. P (W)?",
+    "answer": "100.0"
+  },
+  {
+    "rating": 865,
+    "type": "numeric",
+    "q": "Rotational KE for I=1 kg·m² and ω=6 rad/s. K (J)?",
+    "answer": "18.0"
+  },
+  {
+    "rating": 1497,
+    "type": "numeric",
+    "q": "Mass-spring (m=2 kg, k=100 N/m). Frequency (Hz)?",
+    "answer": "1.13"
+  },
+  {
+    "rating": 728,
+    "type": "numeric",
+    "q": "Component of weight down a θ=60° incline for m=5 kg. Value (N)?",
+    "answer": "42.4"
+  },
+  {
+    "rating": 1012,
+    "type": "mcq",
+    "q": "First Law of Thermodynamics…",
+    "a": [
+      "ΔU=Q−W",
+      "ΔU=Q+W",
+      "W=Q−ΔU",
+      "Q=W"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 595,
+    "type": "numeric",
+    "q": "Displacement for v₀=6 m/s, a=2 m/s², t=3 s. Δx (m)?",
+    "answer": "27.0"
+  },
+  {
+    "rating": 1033,
+    "type": "mcq",
+    "q": "Moment of inertia of a solid disc about center is…",
+    "a": [
+      "(1/2)MR²",
+      "(1/3)ML²",
+      "MR²",
+      "(2/5)MR²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 934,
+    "type": "mcq",
+    "q": "First Law of Thermodynamics…",
+    "a": [
+      "ΔU=Q−W",
+      "ΔU=Q+W",
+      "W=Q−ΔU",
+      "Q=W"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1195,
+    "type": "numeric",
+    "q": "Ohm’s law: V=12 V across R=6 Ω. Current I (A)?",
+    "answer": "2.0"
+  },
+  {
+    "rating": 1345,
+    "type": "numeric",
+    "q": "Momentum of m=4 kg moving at v=2 m/s (kg·m/s)?",
+    "answer": "8"
+  },
+  {
+    "rating": 1229,
+    "type": "numeric",
+    "q": "A mass m=10 kg accelerates at a=3 m/s². Net force (N)?",
+    "answer": "30"
+  },
+  {
+    "rating": 1270,
+    "type": "numeric",
+    "q": "KE of m=3 kg moving at v=2 m/s. KE (J)?",
+    "answer": "6.0"
+  },
+  {
+    "rating": 1107,
+    "type": "numeric",
+    "q": "Momentum of m=2 kg moving at v=5 m/s (kg·m/s)?",
+    "answer": "10"
+  },
+  {
+    "rating": 1055,
+    "type": "mcq",
+    "q": "Gravitational force between two masses varies as…",
+    "a": [
+      "1/r²",
+      "1/r",
+      "r",
+      "r²"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1207,
+    "type": "numeric",
+    "q": "Mass-spring (m=1 kg, k=200 N/m). Frequency (Hz)?",
+    "answer": "2.25"
+  },
+  {
+    "rating": 1137,
+    "type": "numeric",
+    "q": "Displacement for v₀=10 m/s, a=1 m/s², t=5 s. Δx (m)?",
+    "answer": "62.5"
+  },
+  {
+    "rating": 924,
+    "type": "numeric",
+    "q": "An object travels 89.0 m in 5.4 s at constant speed. Average velocity (m/s)?",
+    "answer": "16.48"
+  },
+  {
+    "rating": 600,
+    "type": "numeric",
+    "q": "Displacement for v₀=0 m/s, a=3 m/s², t=5 s. Δx (m)?",
+    "answer": "37.5"
+  },
+  {
+    "rating": 1143,
+    "type": "mcq",
+    "q": "Constructive interference occurs when path difference is…",
+    "a": [
+      "mλ (m integer)",
+      "(m+1/2)λ",
+      "λ/4",
+      "zero only"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1601,
+    "type": "mcq",
+    "q": "Faraday’s law says induced emf is proportional to…",
+    "a": [
+      "rate of change of flux",
+      "magnitude of B only",
+      "area only",
+      "charge density"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1272,
+    "type": "numeric",
+    "q": "m1=2 kg at v=2 m/s hits m2=1 kg and stops (1D). Speed of m2 (m/s)?",
+    "answer": "4.0"
+  },
+  {
+    "rating": 1168,
+    "type": "numeric",
+    "q": "Mass m=4 kg accelerating upward at 0 m/s². Tension in rope (N)?",
+    "answer": "39.2"
+  },
+  {
+    "rating": 630,
+    "type": "numeric",
+    "q": "Weight of m=5 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "49.0"
+  },
+  {
+    "rating": 728,
+    "type": "numeric",
+    "q": "Weight of m=1 kg near Earth (g=9.8 m/s²). Weight (N)?",
+    "answer": "9.8"
+  },
+  {
+    "rating": 1394,
+    "type": "numeric",
+    "q": "Tangential speed for ω=2 rad/s, R=1 m (m/s)?",
+    "answer": "2"
+  },
+  {
+    "rating": 657,
+    "type": "mcq",
+    "q": "Newton’s 3rd law: interaction forces are…",
+    "a": [
+      "equal in magnitude, opposite in direction",
+      "equal and same direction",
+      "zero",
+      "unrelated"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 872,
+    "type": "numeric",
+    "q": "Impulse from F=50 N applied for t=0.5 s. J (N·s)?",
+    "answer": "25.0"
+  }
+]
