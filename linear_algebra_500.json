@@ -1,0 +1,5606 @@
+[
+  {
+    "rating": 1021,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 958,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1337,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1001,
+    "type": "mcq",
+    "q": "Null space of A = set of…",
+    "a": [
+      "x such that Ax=0",
+      "x such that Ax=b",
+      "eigenvectors",
+      "orthogonal vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 811,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1252,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1134,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 836,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 774,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1062,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1220,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1645,
+    "type": "mcq",
+    "q": "Reflection over x-axis matrix is…",
+    "a": [
+      "[[1,0],[0,−1]]",
+      "[[−1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[−1,0],[0,−1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1253,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 905,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1295,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 806,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1360,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 983,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 945,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 842,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 940,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1622,
+    "type": "mcq",
+    "q": "An eigenvector v satisfies…",
+    "a": [
+      "Av=λv",
+      "A+v=λ",
+      "vA=λ",
+      "det(A)=0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1159,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1466,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1351,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 953,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1414,
+    "type": "mcq",
+    "q": "Effect of [[−1,0],[0,1]] on unit vector (1,0)?",
+    "a": [
+      "reflects across y-axis",
+      "reflects across x-axis",
+      "rotates 180°",
+      "scales"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1792,
+    "type": "mcq",
+    "q": "Reflection over x-axis matrix is…",
+    "a": [
+      "[[1,0],[0,−1]]",
+      "[[−1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[−1,0],[0,−1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 950,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1017,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 625,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1057,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 758,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1284,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1465,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 931,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 694,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 612,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 578,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 775,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1824,
+    "type": "mcq",
+    "q": "Scaling by 2 in x-direction matrix…",
+    "a": [
+      "[[2,0],[0,1]]",
+      "[[1,2],[0,1]]",
+      "[[1,0],[2,1]]",
+      "[[2,2],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1024,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1416,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1649,
+    "type": "mcq",
+    "q": "Shear in x by factor 1 matrix…",
+    "a": [
+      "[[1,1],[0,1]]",
+      "[[1,0],[1,1]]",
+      "[[1,−1],[0,1]]",
+      "[[0,1],[1,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1124,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1471,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 918,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 890,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1136,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1524,
+    "type": "mcq",
+    "q": "Matrix [[0,−1],[1,0]] represents…",
+    "a": [
+      "rotation 90° CCW",
+      "rotation 90° CW",
+      "reflection across x-axis",
+      "reflection across y-axis"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 760,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1245,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1029,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 849,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 859,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1396,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 557,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 914,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1005,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1243,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1803,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1224,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1051,
+    "type": "numeric",
+    "q": "Dot product of [1,2,3] and [4,5,6] = ?",
+    "answer": "32"
+  },
+  {
+    "rating": 1299,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 775,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 795,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1229,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1184,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1375,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 817,
+    "type": "numeric",
+    "q": "Dot product of [1,2,3] and [4,5,6] = ?",
+    "answer": "32"
+  },
+  {
+    "rating": 1276,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 943,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 834,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 991,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 583,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 975,
+    "type": "mcq",
+    "q": "A basis is…",
+    "a": [
+      "a linearly independent set that spans the space",
+      "an orthogonal set",
+      "a unique set",
+      "a subset of the nullspace"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 954,
+    "type": "mcq",
+    "q": "Null space of A = set of…",
+    "a": [
+      "x such that Ax=0",
+      "x such that Ax=b",
+      "eigenvectors",
+      "orthogonal vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 859,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1017,
+    "type": "mcq",
+    "q": "A basis is…",
+    "a": [
+      "a linearly independent set that spans the space",
+      "an orthogonal set",
+      "a unique set",
+      "a subset of the nullspace"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1353,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1018,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1197,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1388,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1088,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1373,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 946,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 894,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1299,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 513,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1099,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1479,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1452,
+    "type": "mcq",
+    "q": "Reflection over x-axis matrix is…",
+    "a": [
+      "[[1,0],[0,−1]]",
+      "[[−1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[−1,0],[0,−1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1082,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 800,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 973,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 762,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1326,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1088,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1036,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1163,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1381,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 776,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1765,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1348,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 1219,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1262,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 811,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1823,
+    "type": "mcq",
+    "q": "Matrix [[0,−1],[1,0]] represents…",
+    "a": [
+      "rotation 90° CCW",
+      "rotation 90° CW",
+      "reflection across x-axis",
+      "reflection across y-axis"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 861,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 702,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1284,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1245,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1082,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 762,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1069,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 949,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1339,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1074,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1718,
+    "type": "mcq",
+    "q": "An eigenvector v satisfies…",
+    "a": [
+      "Av=λv",
+      "A+v=λ",
+      "vA=λ",
+      "det(A)=0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1214,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 1160,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1631,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1300,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 794,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1848,
+    "type": "mcq",
+    "q": "Shear in x by factor 1 matrix…",
+    "a": [
+      "[[1,1],[0,1]]",
+      "[[1,0],[1,1]]",
+      "[[1,−1],[0,1]]",
+      "[[0,1],[1,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1318,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1351,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 952,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 997,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1069,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 732,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1057,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 933,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1214,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 971,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1154,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1125,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1380,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1073,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 871,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1284,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1019,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1119,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1863,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1115,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1080,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1477,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1712,
+    "type": "mcq",
+    "q": "An eigenvector v satisfies…",
+    "a": [
+      "Av=λv",
+      "A+v=λ",
+      "vA=λ",
+      "det(A)=0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1047,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1158,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 608,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1487,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1443,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 998,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1153,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1144,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 983,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1046,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1056,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 857,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 650,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1592,
+    "type": "mcq",
+    "q": "Effect of [[−1,0],[0,1]] on unit vector (1,0)?",
+    "a": [
+      "reflects across y-axis",
+      "reflects across x-axis",
+      "rotates 180°",
+      "scales"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1116,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1052,
+    "type": "mcq",
+    "q": "A basis is…",
+    "a": [
+      "a linearly independent set that spans the space",
+      "an orthogonal set",
+      "a unique set",
+      "a subset of the nullspace"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 729,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1188,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1169,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1365,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 722,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 806,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1101,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 1238,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 571,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1310,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 716,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1374,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1158,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 773,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1482,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1364,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 523,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1148,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1252,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 827,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 803,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 923,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1258,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 978,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 839,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1461,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 533,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 800,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1303,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 705,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1894,
+    "type": "mcq",
+    "q": "Shear in x by factor 1 matrix…",
+    "a": [
+      "[[1,1],[0,1]]",
+      "[[1,0],[1,1]]",
+      "[[1,−1],[0,1]]",
+      "[[0,1],[1,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 886,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 882,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 923,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 1040,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 544,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1698,
+    "type": "mcq",
+    "q": "Effect of [[−1,0],[0,1]] on unit vector (1,0)?",
+    "a": [
+      "reflects across y-axis",
+      "reflects across x-axis",
+      "rotates 180°",
+      "scales"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 769,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1713,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1630,
+    "type": "mcq",
+    "q": "An eigenvector v satisfies…",
+    "a": [
+      "Av=λv",
+      "A+v=λ",
+      "vA=λ",
+      "det(A)=0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1172,
+    "type": "mcq",
+    "q": "Null space of A = set of…",
+    "a": [
+      "x such that Ax=0",
+      "x such that Ax=b",
+      "eigenvectors",
+      "orthogonal vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1920,
+    "type": "mcq",
+    "q": "Reflection over x-axis matrix is…",
+    "a": [
+      "[[1,0],[0,−1]]",
+      "[[−1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[−1,0],[0,−1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1121,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 795,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 612,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1346,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1162,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 888,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 578,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1283,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1192,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1027,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1168,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1054,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 810,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1222,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1379,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1098,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1327,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1227,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1017,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 946,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 611,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1240,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 831,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 758,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1471,
+    "type": "mcq",
+    "q": "Scaling by 2 in x-direction matrix…",
+    "a": [
+      "[[2,0],[0,1]]",
+      "[[1,2],[0,1]]",
+      "[[1,0],[2,1]]",
+      "[[2,2],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1015,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1351,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1143,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 971,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1108,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 583,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1489,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 801,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1177,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1133,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 985,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1831,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1276,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1286,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 845,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 967,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 970,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 914,
+    "type": "mcq",
+    "q": "A basis is…",
+    "a": [
+      "a linearly independent set that spans the space",
+      "an orthogonal set",
+      "a unique set",
+      "a subset of the nullspace"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 622,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 895,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1132,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1123,
+    "type": "numeric",
+    "q": "Dot product of [1,2,3] and [4,5,6] = ?",
+    "answer": "32"
+  },
+  {
+    "rating": 881,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 913,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1129,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1102,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1293,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 990,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1770,
+    "type": "mcq",
+    "q": "Effect of [[−1,0],[0,1]] on unit vector (1,0)?",
+    "a": [
+      "reflects across y-axis",
+      "reflects across x-axis",
+      "rotates 180°",
+      "scales"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 805,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 571,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1060,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1071,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 911,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 860,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 930,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1377,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 714,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1194,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1464,
+    "type": "mcq",
+    "q": "An eigenvector v satisfies…",
+    "a": [
+      "Av=λv",
+      "A+v=λ",
+      "vA=λ",
+      "det(A)=0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 948,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 970,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1817,
+    "type": "mcq",
+    "q": "Matrix [[0,−1],[1,0]] represents…",
+    "a": [
+      "rotation 90° CCW",
+      "rotation 90° CW",
+      "reflection across x-axis",
+      "reflection across y-axis"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 954,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1267,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1209,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 719,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1224,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1557,
+    "type": "mcq",
+    "q": "Shear in x by factor 1 matrix…",
+    "a": [
+      "[[1,1],[0,1]]",
+      "[[1,0],[1,1]]",
+      "[[1,−1],[0,1]]",
+      "[[0,1],[1,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 933,
+    "type": "mcq",
+    "q": "Null space of A = set of…",
+    "a": [
+      "x such that Ax=0",
+      "x such that Ax=b",
+      "eigenvectors",
+      "orthogonal vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1184,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1330,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1575,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1289,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1267,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 697,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 983,
+    "type": "mcq",
+    "q": "Null space of A = set of…",
+    "a": [
+      "x such that Ax=0",
+      "x such that Ax=b",
+      "eigenvectors",
+      "orthogonal vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1121,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 573,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1482,
+    "type": "mcq",
+    "q": "A basis is…",
+    "a": [
+      "a linearly independent set that spans the space",
+      "an orthogonal set",
+      "a unique set",
+      "a subset of the nullspace"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 963,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1172,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 755,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 988,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 955,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1382,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1584,
+    "type": "mcq",
+    "q": "Eigenvalues of [[2,0],[0,3]] are…",
+    "a": [
+      "2,3",
+      "1,2",
+      "0,3",
+      "−2,3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1241,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1406,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1498,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1197,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1148,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 840,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 740,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1131,
+    "type": "mcq",
+    "q": "A basis is…",
+    "a": [
+      "a linearly independent set that spans the space",
+      "an orthogonal set",
+      "a unique set",
+      "a subset of the nullspace"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1132,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 546,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1009,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1630,
+    "type": "mcq",
+    "q": "Matrix [[0,−1],[1,0]] represents…",
+    "a": [
+      "rotation 90° CCW",
+      "rotation 90° CW",
+      "reflection across x-axis",
+      "reflection across y-axis"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 674,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1102,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1298,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 552,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 931,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 905,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1748,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1679,
+    "type": "mcq",
+    "q": "Shear in x by factor 1 matrix…",
+    "a": [
+      "[[1,1],[0,1]]",
+      "[[1,0],[1,1]]",
+      "[[1,−1],[0,1]]",
+      "[[0,1],[1,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 557,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 823,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 918,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1086,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 772,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 918,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1049,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1260,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 873,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1047,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1301,
+    "type": "numeric",
+    "q": "Dot product of [1,2,3] and [4,5,6] = ?",
+    "answer": "32"
+  },
+  {
+    "rating": 1153,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 965,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 601,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1812,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1133,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1350,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1113,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1595,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1132,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 943,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 967,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1534,
+    "type": "mcq",
+    "q": "Scaling by 2 in x-direction matrix…",
+    "a": [
+      "[[2,0],[0,1]]",
+      "[[1,2],[0,1]]",
+      "[[1,0],[2,1]]",
+      "[[2,2],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1721,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 780,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 922,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1628,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 799,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 966,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1235,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1077,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1872,
+    "type": "mcq",
+    "q": "Matrix [[0,−1],[1,0]] represents…",
+    "a": [
+      "rotation 90° CCW",
+      "rotation 90° CW",
+      "reflection across x-axis",
+      "reflection across y-axis"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1673,
+    "type": "mcq",
+    "q": "Effect of [[−1,0],[0,1]] on unit vector (1,0)?",
+    "a": [
+      "reflects across y-axis",
+      "reflects across x-axis",
+      "rotates 180°",
+      "scales"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1112,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 694,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 893,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1335,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1492,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1340,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1244,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 846,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1123,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1334,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 982,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1120,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1166,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1071,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 934,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1318,
+    "type": "mcq",
+    "q": "Row space of A = span of…",
+    "a": [
+      "rows of A",
+      "columns of A",
+      "pivots",
+      "zero vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 982,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1230,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1252,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 995,
+    "type": "numeric",
+    "q": "Dot product of [1,2,3] and [4,5,6] = ?",
+    "answer": "32"
+  },
+  {
+    "rating": 1244,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1534,
+    "type": "mcq",
+    "q": "Characteristic polynomial of A=[[2,0],[0,3]] is…",
+    "a": [
+      "(λ−2)(λ−3)",
+      "λ²−6",
+      "λ²+1",
+      "λ²−5"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1451,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 681,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 759,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 890,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1103,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1062,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1781,
+    "type": "mcq",
+    "q": "An eigenvector v satisfies…",
+    "a": [
+      "Av=λv",
+      "A+v=λ",
+      "vA=λ",
+      "det(A)=0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 847,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1184,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 770,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1221,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 809,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 950,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1165,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 540,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1292,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 809,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 642,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 894,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1179,
+    "type": "numeric",
+    "q": "Dot product of [1,2,3] and [4,5,6] = ?",
+    "answer": "32"
+  },
+  {
+    "rating": 997,
+    "type": "mcq",
+    "q": "I₂×₂ equals…",
+    "a": [
+      "[[1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[1,1],[0,0]]",
+      "[[0,0],[1,1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1028,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1139,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1270,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 1038,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1152,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 617,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 910,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 694,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1302,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 925,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 760,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1048,
+    "type": "numeric",
+    "q": "Dot product of [1,2,3] and [4,5,6] = ?",
+    "answer": "32"
+  },
+  {
+    "rating": 985,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 772,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 540,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 929,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1349,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1149,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1107,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1366,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1085,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1446,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1899,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 915,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 874,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1218,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 783,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 843,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1381,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1364,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1345,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1030,
+    "type": "mcq",
+    "q": "A system with fewer equations than variables is typically…",
+    "a": [
+      "underdetermined",
+      "overdetermined",
+      "consistent",
+      "impossible"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 971,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 894,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1189,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1323,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 732,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 884,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 970,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 951,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 805,
+    "type": "mcq",
+    "q": "Which is symmetric?",
+    "a": [
+      "[[1,2],[2,1]]",
+      "[[1,2],[3,4]]",
+      "[[2,3],[1,2]]",
+      "[[0,1],[2,0]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1383,
+    "type": "mcq",
+    "q": "Span{v₁,v₂} represents…",
+    "a": [
+      "all linear combinations",
+      "only v₁,v₂",
+      "their cross",
+      "orthogonal complement"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 515,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1855,
+    "type": "mcq",
+    "q": "A matrix is diagonalizable if…",
+    "a": [
+      "it has enough linearly independent eigenvectors",
+      "det≠0",
+      "it is symmetric",
+      "it is orthogonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1030,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1718,
+    "type": "mcq",
+    "q": "Effect of [[−1,0],[0,1]] on unit vector (1,0)?",
+    "a": [
+      "reflects across y-axis",
+      "reflects across x-axis",
+      "rotates 180°",
+      "scales"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1271,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1145,
+    "type": "mcq",
+    "q": "Null space of A = set of…",
+    "a": [
+      "x such that Ax=0",
+      "x such that Ax=b",
+      "eigenvectors",
+      "orthogonal vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 912,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1297,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1324,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1215,
+    "type": "mcq",
+    "q": "Pivot element in Gaussian elimination is…",
+    "a": [
+      "first nonzero entry in the row",
+      "max entry",
+      "determinant value",
+      "diagonal element"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 704,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 579,
+    "type": "mcq",
+    "q": "3A for A=[[1,2],[3,4]] equals…",
+    "a": [
+      "[[3,6],[9,12]]",
+      "[[1,2],[9,12]]",
+      "[[2,3],[6,9]]",
+      "[[3,3],[4,4]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 848,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1452,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1964,
+    "type": "mcq",
+    "q": "Reflection over x-axis matrix is…",
+    "a": [
+      "[[1,0],[0,−1]]",
+      "[[−1,0],[0,1]]",
+      "[[0,1],[1,0]]",
+      "[[−1,0],[0,−1]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1029,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1029,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 957,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 908,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1016,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1245,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 994,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1046,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 890,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 683,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 996,
+    "type": "numeric",
+    "q": "[1,0,0]×[0,1,0] = ?",
+    "answer": "[0,0,1]"
+  },
+  {
+    "rating": 1195,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 732,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1217,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1433,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1197,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 812,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 750,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 973,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1113,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 1139,
+    "type": "mcq",
+    "q": "Swapping two rows changes determinant by…",
+    "a": [
+      "sign",
+      "double",
+      "unchanged",
+      "zero"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 988,
+    "type": "mcq",
+    "q": "Minor of element a₁₁ in [[1,2],[3,4]] is…",
+    "a": [
+      "4",
+      "−4",
+      "3",
+      "2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 905,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1363,
+    "type": "mcq",
+    "q": "Projection of a onto b is…",
+    "a": [
+      "(a·b)/(‖b‖²) b",
+      "a×b",
+      "b×a",
+      "a·b"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1470,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1235,
+    "type": "mcq",
+    "q": "If det(A)=0, A is…",
+    "a": [
+      "not invertible",
+      "invertible",
+      "orthogonal",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 774,
+    "type": "numeric",
+    "q": "det([[1,2],[3,4]]) = ?",
+    "answer": "-2"
+  },
+  {
+    "rating": 871,
+    "type": "mcq",
+    "q": "Adding a multiple of one row to another affects determinant how?",
+    "a": [
+      "unchanged",
+      "doubles",
+      "halves",
+      "negates"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1099,
+    "type": "mcq",
+    "q": "Augmented matrix of Ax=b includes…",
+    "a": [
+      "coefficients and constants",
+      "only coefficients",
+      "only constants",
+      "only variables"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 997,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 940,
+    "type": "mcq",
+    "q": "A+B for A=[[1,2],[3,4]], B=[[2,0],[1,2]] equals…",
+    "a": [
+      "[[3,2],[4,6]]",
+      "[[3,2],[2,6]]",
+      "[[3,0],[4,2]]",
+      "[[2,2],[4,6]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1130,
+    "type": "mcq",
+    "q": "Null space of A = set of…",
+    "a": [
+      "x such that Ax=0",
+      "x such that Ax=b",
+      "eigenvectors",
+      "orthogonal vectors"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1116,
+    "type": "mcq",
+    "q": "A matrix is in RREF if…",
+    "a": [
+      "pivots are 1 with zeros elsewhere in their columns",
+      "each row nonzero",
+      "upper triangular",
+      "diagonal"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1104,
+    "type": "mcq",
+    "q": "A system Ax=b is consistent if…",
+    "a": [
+      "b∈Col(A)",
+      "det(A)=0",
+      "A symmetric",
+      "rank(A)<rank(A|b)"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1178,
+    "type": "mcq",
+    "q": "Cramer’s rule applies when…",
+    "a": [
+      "det(A)≠0",
+      "A singular",
+      "A symmetric",
+      "A sparse"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1292,
+    "type": "mcq",
+    "q": "If det(A)≠0, the system Ax=b has…",
+    "a": [
+      "unique solution",
+      "no solution",
+      "infinite solutions",
+      "none"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 961,
+    "type": "mcq",
+    "q": "A basis is…",
+    "a": [
+      "a linearly independent set that spans the space",
+      "an orthogonal set",
+      "a unique set",
+      "a subset of the nullspace"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1198,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 829,
+    "type": "mcq",
+    "q": "Vectors are linearly independent if…",
+    "a": [
+      "no vector is a linear combination of others",
+      "sum=0",
+      "orthogonal",
+      "equal length"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 870,
+    "type": "mcq",
+    "q": "A matrix with determinant 0 is called…",
+    "a": [
+      "singular",
+      "identity",
+      "symmetric",
+      "unitary"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 512,
+    "type": "mcq",
+    "q": "Aᵀ for A=[[1,2],[3,4]] is…",
+    "a": [
+      "[[1,3],[2,4]]",
+      "[[3,1],[4,2]]",
+      "[[2,1],[4,3]]",
+      "[[1,4],[2,3]]"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1211,
+    "type": "mcq",
+    "q": "Rank(A) = number of…",
+    "a": [
+      "pivots",
+      "rows",
+      "columns",
+      "zeros"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1159,
+    "type": "numeric",
+    "q": "det([[1,0,2],[−1,3,1],[0,5,2]]) = ?",
+    "answer": "−13"
+  },
+  {
+    "rating": 1093,
+    "type": "mcq",
+    "q": "Multiplying one row by k scales determinant by…",
+    "a": [
+      "k",
+      "k²",
+      "1/k",
+      "−k"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1083,
+    "type": "mcq",
+    "q": "Column space of A = span of…",
+    "a": [
+      "columns of A",
+      "rows of A",
+      "eigenvectors",
+      "pivots"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1910,
+    "type": "mcq",
+    "q": "Shear in x by factor 1 matrix…",
+    "a": [
+      "[[1,1],[0,1]]",
+      "[[1,0],[1,1]]",
+      "[[1,−1],[0,1]]",
+      "[[0,1],[1,0]]"
+    ],
+    "correct": 0
+  }
+]
