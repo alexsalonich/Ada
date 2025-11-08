@@ -1,0 +1,5504 @@
+[
+  {
+    "rating": 1389,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 994,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1432,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos x = −1/2 (answer in radians, comma-separated).",
+    "answer": "2π/3,4π/3"
+  },
+  {
+    "rating": 1070,
+    "type": "mcq",
+    "q": "tan(2x) equals…",
+    "a": [
+      "2tan x/(1 − tan²x)",
+      "tan²x",
+      "tan x",
+      "2tan x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 739,
+    "type": "mcq",
+    "q": "tan(3π/4) = ?",
+    "a": [
+      "0",
+      "undefined",
+      "1",
+      "-1"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1216,
+    "type": "numeric",
+    "q": "Solve on [0,2π): tan x = −1 (answer in radians, comma-separated).",
+    "answer": "3π/4,7π/4"
+  },
+  {
+    "rating": 515,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 963,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 716,
+    "type": "mcq",
+    "q": "sin(210°) = ?",
+    "a": [
+      "-1/2",
+      "1/2",
+      "√2/2",
+      "0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1100,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 540,
+    "type": "mcq",
+    "q": "tan(0°) = ?",
+    "a": [
+      "0",
+      "-√3",
+      "√3",
+      "-1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 980,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1360,
+    "type": "numeric",
+    "q": "A building is 40 m tall at a horizontal distance 20 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "63"
+  },
+  {
+    "rating": 1057,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1082,
+    "type": "mcq",
+    "q": "sin(2x) equals…",
+    "a": [
+      "2 sin x cos x",
+      "sin²x + cos²x",
+      "2 tan x",
+      "cos²x − sin²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 578,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1920,
+    "type": "mcq",
+    "q": "If sinA=3/5, cosB=5/13 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.969",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 536,
+    "type": "mcq",
+    "q": "sin(π/2) = ?",
+    "a": [
+      "0",
+      "-√3/2",
+      "-√2/2",
+      "1"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1304,
+    "type": "mcq",
+    "q": "For f(x) = cos(1x + 4π/4), the phase shift is…",
+    "a": [
+      "−4π/4/1",
+      "4π/4/1",
+      "−4π/4·1",
+      "4π/4·1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1415,
+    "type": "mcq",
+    "q": "For f(x) = cos(1x + 4π/4), the phase shift is…",
+    "a": [
+      "−4π/4/1",
+      "4π/4/1",
+      "−4π/4·1",
+      "4π/4·1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1371,
+    "type": "mcq",
+    "q": "For f(x) = cos(2x + 3π/4), the phase shift is…",
+    "a": [
+      "−3π/4/2",
+      "3π/4/2",
+      "−3π/4·2",
+      "3π/4·2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1327,
+    "type": "numeric",
+    "q": "For f(x) = 0.5sin(x), what is the amplitude?",
+    "answer": "0.5"
+  },
+  {
+    "rating": 1663,
+    "type": "mcq",
+    "q": "If sinA=4/5, cosB=12/13 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.969",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 864,
+    "type": "mcq",
+    "q": "tan(2x) equals…",
+    "a": [
+      "2tan x/(1 − tan²x)",
+      "tan²x",
+      "tan x",
+      "2tan x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 900,
+    "type": "mcq",
+    "q": "For f(x) = 1cos(3x + 0), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 523,
+    "type": "mcq",
+    "q": "tan(π/4) = ?",
+    "a": [
+      "0",
+      "√3",
+      "1",
+      "-1"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 547,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1864,
+    "type": "mcq",
+    "q": "If sinA=3/5, cosB=12/13 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.862",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1197,
+    "type": "numeric",
+    "q": "Compute arccos(0) in degrees.",
+    "answer": "90"
+  },
+  {
+    "rating": 1432,
+    "type": "mcq",
+    "q": "If tan x = 3/4 (acute), sec x equals…",
+    "a": [
+      "5/4",
+      "4/5",
+      "5/3",
+      "3/5"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1788,
+    "type": "mcq",
+    "q": "cos(3x) equals…",
+    "a": [
+      "4cos³x − 3cos x",
+      "3cos x − 4cos³x",
+      "cos x − sin x",
+      "4sin³x − 3sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 932,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 516,
+    "type": "mcq",
+    "q": "cos(150°) = ?",
+    "a": [
+      "0",
+      "-√3/2",
+      "1",
+      "-1"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 965,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 694,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1086,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 571,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 759,
+    "type": "mcq",
+    "q": "tan(π) = ?",
+    "a": [
+      "-√3",
+      "1",
+      "0",
+      "undefined"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 962,
+    "type": "mcq",
+    "q": "sin(A + B) equals…",
+    "a": [
+      "sinA cosB + cosA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB + cosA cosB",
+      "cosA sinB + sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 640,
+    "type": "mcq",
+    "q": "cos(150°) = ?",
+    "a": [
+      "-1",
+      "1",
+      "-1/2",
+      "-√3/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 557,
+    "type": "mcq",
+    "q": "sin(360°) = ?",
+    "a": [
+      "-√3/2",
+      "0",
+      "√3/2",
+      "√2/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 587,
+    "type": "mcq",
+    "q": "cos(0°) = ?",
+    "a": [
+      "1/2",
+      "√2/2",
+      "0",
+      "1"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 558,
+    "type": "mcq",
+    "q": "sin(π/4) = ?",
+    "a": [
+      "-1",
+      "√3/2",
+      "-1/2",
+      "√2/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 865,
+    "type": "mcq",
+    "q": "arccos(1/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 637,
+    "type": "mcq",
+    "q": "sin(3π/4) = ?",
+    "a": [
+      "0",
+      "1/2",
+      "√2/2",
+      "1"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 636,
+    "type": "mcq",
+    "q": "sin(30°) = ?",
+    "a": [
+      "1",
+      "√3/2",
+      "1/2",
+      "-√3/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 898,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 787,
+    "type": "mcq",
+    "q": "cos(π/2) = ?",
+    "a": [
+      "0",
+      "1",
+      "-1",
+      "-√3/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1079,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 943,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 937,
+    "type": "mcq",
+    "q": "sin(A + B) equals…",
+    "a": [
+      "sinA cosB + cosA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB + cosA cosB",
+      "cosA sinB + sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 571,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 949,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 782,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 923,
+    "type": "mcq",
+    "q": "arccos(1/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1305,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 952,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 758,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1072,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 984,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 607,
+    "type": "mcq",
+    "q": "tan(3π/4) = ?",
+    "a": [
+      "1/√3",
+      "0",
+      "-1",
+      "-1/√3"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1048,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1285,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 616,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1002,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 790,
+    "type": "mcq",
+    "q": "sin(180°) = ?",
+    "a": [
+      "√3/2",
+      "-√2/2",
+      "0",
+      "√2/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 961,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1475,
+    "type": "mcq",
+    "q": "For f(x) = cos(3x + 3π/4), the phase shift is…",
+    "a": [
+      "−3π/4/3",
+      "3π/4/3",
+      "−3π/4·3",
+      "3π/4·3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1015,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 509,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 893,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 869,
+    "type": "mcq",
+    "q": "For f(x) = 2sin(0.5x + 3π/4), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 770,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1904,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=-0.524, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 694,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 619,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1178,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos x = −1/2 (answer in radians, comma-separated).",
+    "answer": "2π/3,4π/3"
+  },
+  {
+    "rating": 1410,
+    "type": "mcq",
+    "q": "If tan x = 3/4 (acute), sec x equals…",
+    "a": [
+      "5/4",
+      "4/5",
+      "5/3",
+      "3/5"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1459,
+    "type": "numeric",
+    "q": "A building is 40 m tall at a horizontal distance 10 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "76"
+  },
+  {
+    "rating": 543,
+    "type": "mcq",
+    "q": "cos(135°) = ?",
+    "a": [
+      "0",
+      "-√2/2",
+      "1",
+      "-1/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 913,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 783,
+    "type": "mcq",
+    "q": "sin(90°) = ?",
+    "a": [
+      "1",
+      "√3/2",
+      "-1/2",
+      "√2/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1746,
+    "type": "numeric",
+    "q": "A 12 m pole casts a shadow with angle of elevation 30°. Shadow length (m) ≈ ?",
+    "answer": "20.78"
+  },
+  {
+    "rating": 924,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): tan x = 1. Enter all solutions comma-separated.",
+    "answer": "45,225"
+  },
+  {
+    "rating": 1429,
+    "type": "mcq",
+    "q": "For f(x) = cos(3x + 4π/4), the phase shift is…",
+    "a": [
+      "−4π/4/3",
+      "4π/4/3",
+      "−4π/4·3",
+      "4π/4·3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 756,
+    "type": "mcq",
+    "q": "cos(315°) = ?",
+    "a": [
+      "-√2/2",
+      "0",
+      "-1/2",
+      "√2/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1877,
+    "type": "mcq",
+    "q": "cos(3x) equals…",
+    "a": [
+      "4cos³x − 3cos x",
+      "3cos x − 4cos³x",
+      "cos x − sin x",
+      "4sin³x − 3sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 722,
+    "type": "mcq",
+    "q": "cos(150°) = ?",
+    "a": [
+      "√3/2",
+      "0",
+      "1/2",
+      "-√3/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 920,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1305,
+    "type": "mcq",
+    "q": "For f(x) = sin(2x + 3π/4), the phase shift is…",
+    "a": [
+      "−3π/4/2",
+      "3π/4/2",
+      "−3π/4·2",
+      "3π/4·2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 912,
+    "type": "mcq",
+    "q": "tan(2x) equals…",
+    "a": [
+      "2tan x/(1 − tan²x)",
+      "tan²x",
+      "tan x",
+      "2tan x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1163,
+    "type": "mcq",
+    "q": "For f(x) = cos(2x + 1π/4), the phase shift is…",
+    "a": [
+      "−1π/4/2",
+      "1π/4/2",
+      "−1π/4·2",
+      "1π/4·2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1004,
+    "type": "mcq",
+    "q": "sin(A + B) equals…",
+    "a": [
+      "sinA cosB + cosA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB + cosA cosB",
+      "cosA sinB + sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 554,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1187,
+    "type": "mcq",
+    "q": "If tan x = 3/4 (acute), sec x equals…",
+    "a": [
+      "5/4",
+      "4/5",
+      "5/3",
+      "3/5"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 556,
+    "type": "mcq",
+    "q": "cos(90°) = ?",
+    "a": [
+      "1",
+      "1/2",
+      "0",
+      "√2/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 565,
+    "type": "mcq",
+    "q": "sin(210°) = ?",
+    "a": [
+      "√3/2",
+      "-√2/2",
+      "-1/2",
+      "-√3/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1085,
+    "type": "mcq",
+    "q": "arccos(1/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1709,
+    "type": "mcq",
+    "q": "sin(3x) equals…",
+    "a": [
+      "3sin x − 4sin³x",
+      "4sin³x − 3sin x",
+      "2sin x cos2x",
+      "sin x + sin 3x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 619,
+    "type": "mcq",
+    "q": "sec x equals…",
+    "a": [
+      "1/cos x",
+      "1/sin x",
+      "tan x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 612,
+    "type": "mcq",
+    "q": "tan(5π/3) = ?",
+    "a": [
+      "-√3",
+      "-1",
+      "-1/√3",
+      "√3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 551,
+    "type": "mcq",
+    "q": "sin(5π/3) = ?",
+    "a": [
+      "-√3/2",
+      "-1",
+      "√2/2",
+      "1/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1478,
+    "type": "mcq",
+    "q": "For f(x) = cos(0.5x), period = ?",
+    "a": [
+      "2π|B|",
+      "π/|B|",
+      "π",
+      "2π/0.5"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 685,
+    "type": "mcq",
+    "q": "cos(π/6) = ?",
+    "a": [
+      "1/2",
+      "-√3/2",
+      "√3/2",
+      "0"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1012,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 516,
+    "type": "mcq",
+    "q": "sin(π/4) = ?",
+    "a": [
+      "0",
+      "-√2/2",
+      "√2/2",
+      "√3/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1466,
+    "type": "mcq",
+    "q": "For f(x) = sin(1x), period = ?",
+    "a": [
+      "2π|B|",
+      "π",
+      "2π",
+      "π/|B|"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1295,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 557,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1443,
+    "type": "numeric",
+    "q": "Compute arctan(√3) in degrees.",
+    "answer": "60"
+  },
+  {
+    "rating": 1432,
+    "type": "numeric",
+    "q": "For f(x) = 1sin(x), what is the amplitude?",
+    "answer": "1"
+  },
+  {
+    "rating": 906,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1062,
+    "type": "mcq",
+    "q": "arccos(1/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 936,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 980,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 887,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1498,
+    "type": "mcq",
+    "q": "If tan x = 3/4 (acute), sec x equals…",
+    "a": [
+      "5/4",
+      "4/5",
+      "5/3",
+      "3/5"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1010,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 716,
+    "type": "mcq",
+    "q": "tan(2π/3) = ?",
+    "a": [
+      "√3",
+      "-√3",
+      "-1/√3",
+      "1/√3"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1794,
+    "type": "mcq",
+    "q": "cos(3x) equals…",
+    "a": [
+      "4cos³x − 3cos x",
+      "3cos x − 4cos³x",
+      "cos x − sin x",
+      "4sin³x − 3sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 505,
+    "type": "mcq",
+    "q": "cos(225°) = ?",
+    "a": [
+      "-√2/2",
+      "-1",
+      "1",
+      "1/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 552,
+    "type": "mcq",
+    "q": "sin(0) = ?",
+    "a": [
+      "-1/2",
+      "√2/2",
+      "0",
+      "undefined"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 650,
+    "type": "mcq",
+    "q": "sec x equals…",
+    "a": [
+      "1/cos x",
+      "1/sin x",
+      "tan x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 716,
+    "type": "mcq",
+    "q": "tan(180°) = ?",
+    "a": [
+      "-√3",
+      "√3",
+      "-1",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1334,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 887,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1610,
+    "type": "mcq",
+    "q": "Compute sin(60°+15°).",
+    "a": [
+      "1",
+      "(√6+√2)/4",
+      "(√6−√2)/4",
+      "0.966"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 546,
+    "type": "mcq",
+    "q": "cos(0°) = ?",
+    "a": [
+      "-1",
+      "-√3/2",
+      "-1/2",
+      "1"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1057,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1040,
+    "type": "mcq",
+    "q": "For f(x) = 2sin(3x + 3π/4), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1221,
+    "type": "mcq",
+    "q": "For f(x) = sin(4x), period = ?",
+    "a": [
+      "2π/4",
+      "π",
+      "2π|B|",
+      "π/|B|"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 994,
+    "type": "mcq",
+    "q": "tan(2x) equals…",
+    "a": [
+      "2tan x/(1 − tan²x)",
+      "tan²x",
+      "tan x",
+      "2tan x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1453,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 650,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1423,
+    "type": "mcq",
+    "q": "For f(x) = cos(4x), period = ?",
+    "a": [
+      "2π|B|",
+      "π",
+      "2π/4",
+      "π/|B|"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1095,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 983,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 985,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 968,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 693,
+    "type": "mcq",
+    "q": "tan(45°) = ?",
+    "a": [
+      "1/√3",
+      "0",
+      "1",
+      "-1/√3"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1463,
+    "type": "mcq",
+    "q": "For f(x) = sin(1x), period = ?",
+    "a": [
+      "2π",
+      "π",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 689,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 859,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1085,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 760,
+    "type": "mcq",
+    "q": "sin(315°) = ?",
+    "a": [
+      "√3/2",
+      "-√2/2",
+      "1",
+      "-1"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1183,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 860,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1081,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 877,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 659,
+    "type": "mcq",
+    "q": "sin(0°) = ?",
+    "a": [
+      "-1",
+      "1/2",
+      "-1/2",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1707,
+    "type": "mcq",
+    "q": "If sinA=3/5, cosB=12/13 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.862",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 734,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1662,
+    "type": "numeric",
+    "q": "Solve on [0°,360°): sin(2x) = 0. Enter all solutions comma-separated.",
+    "answer": "0,90,180,270"
+  },
+  {
+    "rating": 1094,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 635,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1444,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 922,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): cos x = √3/2. Enter all solutions comma-separated.",
+    "answer": "30,330"
+  },
+  {
+    "rating": 772,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 776,
+    "type": "mcq",
+    "q": "cos(3π/4) = ?",
+    "a": [
+      "√3/2",
+      "1",
+      "-√2/2",
+      "√2/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 697,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 899,
+    "type": "mcq",
+    "q": "tan(A + B) equals…",
+    "a": [
+      "(tanA + tanB)/(1 − tanA tanB)",
+      "tanA + tanB",
+      "(tanA − tanB)/(1 + tanA tanB)",
+      "tanA tanB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1762,
+    "type": "mcq",
+    "q": "If sinA=3/5, cosB=4/5 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.96",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 729,
+    "type": "mcq",
+    "q": "cos(7π/4) = ?",
+    "a": [
+      "undefined",
+      "-1",
+      "√2/2",
+      "√3/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 547,
+    "type": "mcq",
+    "q": "cos(2π/3) = ?",
+    "a": [
+      "-√3/2",
+      "-1/2",
+      "1/2",
+      "-√2/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1322,
+    "type": "numeric",
+    "q": "A building is 20 m tall at a horizontal distance 10 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "63"
+  },
+  {
+    "rating": 872,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): sin x = 1/2. Enter all solutions comma-separated.",
+    "answer": "30,150"
+  },
+  {
+    "rating": 1036,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1312,
+    "type": "numeric",
+    "q": "For f(x) = 0.5sin(x), what is the amplitude?",
+    "answer": "0.5"
+  },
+  {
+    "rating": 1228,
+    "type": "mcq",
+    "q": "For f(x) = sin(2x), period = ?",
+    "a": [
+      "2π/2",
+      "π",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 512,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 964,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 674,
+    "type": "mcq",
+    "q": "sec x equals…",
+    "a": [
+      "1/cos x",
+      "1/sin x",
+      "tan x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 635,
+    "type": "mcq",
+    "q": "tan(0°) = ?",
+    "a": [
+      "0",
+      "1/√3",
+      "1",
+      "√3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 705,
+    "type": "mcq",
+    "q": "tan(7π/4) = ?",
+    "a": [
+      "√3",
+      "0",
+      "-1",
+      "-1/√3"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1095,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 997,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 879,
+    "type": "mcq",
+    "q": "tan(2x) equals…",
+    "a": [
+      "2tan x/(1 − tan²x)",
+      "tan²x",
+      "tan x",
+      "2tan x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 953,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 522,
+    "type": "mcq",
+    "q": "tan(135°) = ?",
+    "a": [
+      "0",
+      "-1",
+      "-1/√3",
+      "1"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1404,
+    "type": "numeric",
+    "q": "Solve on [0,2π): tan x = −1 (answer in radians, comma-separated).",
+    "answer": "3π/4,7π/4"
+  },
+  {
+    "rating": 879,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 601,
+    "type": "mcq",
+    "q": "tan(30°) = ?",
+    "a": [
+      "-1/√3",
+      "1/√3",
+      "√3",
+      "undefined"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 889,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 681,
+    "type": "mcq",
+    "q": "sin(270°) = ?",
+    "a": [
+      "1",
+      "-√2/2",
+      "√2/2",
+      "-1"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 612,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 535,
+    "type": "mcq",
+    "q": "cos(300°) = ?",
+    "a": [
+      "1",
+      "1/2",
+      "-1/2",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1014,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1190,
+    "type": "numeric",
+    "q": "Compute arctan(√3) in degrees.",
+    "answer": "60"
+  },
+  {
+    "rating": 1741,
+    "type": "mcq",
+    "q": "Compute cos(60°−15°).",
+    "a": [
+      "√2/2",
+      "(√6+√2)/4",
+      "(√6−√2)/4",
+      "0.707"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 685,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 724,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 860,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): tan x = 1. Enter all solutions comma-separated.",
+    "answer": "45,225"
+  },
+  {
+    "rating": 578,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1236,
+    "type": "numeric",
+    "q": "A building is 30 m tall at a horizontal distance 40 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "37"
+  },
+  {
+    "rating": 582,
+    "type": "mcq",
+    "q": "sin(240°) = ?",
+    "a": [
+      "0",
+      "-1/2",
+      "-√3/2",
+      "1"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1015,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 642,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1252,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 1264,
+    "type": "mcq",
+    "q": "For f(x) = sin(3x), period = ?",
+    "a": [
+      "π/|B|",
+      "π",
+      "2π|B|",
+      "2π/3"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 942,
+    "type": "mcq",
+    "q": "For f(x) = 2sin(2x + 1π/4), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 625,
+    "type": "mcq",
+    "q": "sin(300°) = ?",
+    "a": [
+      "-√2/2",
+      "1/2",
+      "-√3/2",
+      "1"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 743,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1250,
+    "type": "numeric",
+    "q": "A building is 20 m tall at a horizontal distance 30 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "34"
+  },
+  {
+    "rating": 533,
+    "type": "mcq",
+    "q": "tan(210°) = ?",
+    "a": [
+      "-1/√3",
+      "√3",
+      "undefined",
+      "1/√3"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1165,
+    "type": "mcq",
+    "q": "For f(x) = cos(1x + 3π/4), the phase shift is…",
+    "a": [
+      "−3π/4/1",
+      "3π/4/1",
+      "−3π/4·1",
+      "3π/4·1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1848,
+    "type": "mcq",
+    "q": "If sinA=3/5, cosB=4/5 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.96",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 529,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1326,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 967,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1791,
+    "type": "numeric",
+    "q": "A 12 m pole casts a shadow with angle of elevation 37°. Shadow length (m) ≈ ?",
+    "answer": "15.92"
+  },
+  {
+    "rating": 1010,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1214,
+    "type": "mcq",
+    "q": "For f(x) = cos(2x), period = ?",
+    "a": [
+      "2π|B|",
+      "π",
+      "2π/2",
+      "π/|B|"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 732,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 978,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 581,
+    "type": "mcq",
+    "q": "sin(π) = ?",
+    "a": [
+      "-1/2",
+      "√2/2",
+      "-√3/2",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 611,
+    "type": "mcq",
+    "q": "cos(5π/3) = ?",
+    "a": [
+      "1",
+      "0",
+      "1/2",
+      "-1/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 755,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1097,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 580,
+    "type": "mcq",
+    "q": "cos(0) = ?",
+    "a": [
+      "-1/2",
+      "1",
+      "undefined",
+      "√3/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1447,
+    "type": "mcq",
+    "q": "For f(x) = cos(3x + 3π/4), the phase shift is…",
+    "a": [
+      "−3π/4/3",
+      "3π/4/3",
+      "−3π/4·3",
+      "3π/4·3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 956,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1901,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos(2x) = 0 (radians). Enter all solutions comma-separated.",
+    "answer": "π/4,3π/4,5π/4,7π/4"
+  },
+  {
+    "rating": 961,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 549,
+    "type": "mcq",
+    "q": "sin(π) = ?",
+    "a": [
+      "1",
+      "-1",
+      "√3/2",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1359,
+    "type": "numeric",
+    "q": "Solve on [0,2π): sin x = √2/2 (answer in radians, comma-separated).",
+    "answer": "π/4,3π/4"
+  },
+  {
+    "rating": 948,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1062,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): sin x = 1/2. Enter all solutions comma-separated.",
+    "answer": "30,150"
+  },
+  {
+    "rating": 608,
+    "type": "mcq",
+    "q": "tan(330°) = ?",
+    "a": [
+      "√3",
+      "-1/√3",
+      "-√3",
+      "1/√3"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1024,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 939,
+    "type": "mcq",
+    "q": "sin(A + B) equals…",
+    "a": [
+      "sinA cosB + cosA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB + cosA cosB",
+      "cosA sinB + sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 691,
+    "type": "mcq",
+    "q": "tan(270°) = ?",
+    "a": [
+      "-√3",
+      "0",
+      "√3",
+      "undefined"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 719,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1910,
+    "type": "mcq",
+    "q": "sin(3x) equals…",
+    "a": [
+      "3sin x − 4sin³x",
+      "4sin³x − 3sin x",
+      "2sin x cos2x",
+      "sin x + sin 3x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1670,
+    "type": "numeric",
+    "q": "A 5 m pole casts a shadow with angle of elevation 30°. Shadow length (m) ≈ ?",
+    "answer": "8.66"
+  },
+  {
+    "rating": 665,
+    "type": "mcq",
+    "q": "cos(2π/3) = ?",
+    "a": [
+      "√3/2",
+      "-√2/2",
+      "1",
+      "-1/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 583,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1216,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos x = −1/2 (answer in radians, comma-separated).",
+    "answer": "2π/3,4π/3"
+  },
+  {
+    "rating": 962,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 869,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 779,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1380,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 704,
+    "type": "mcq",
+    "q": "cos(30°) = ?",
+    "a": [
+      "0",
+      "√3/2",
+      "1",
+      "1/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1315,
+    "type": "mcq",
+    "q": "For f(x) = sin(3x + 4π/4), the phase shift is…",
+    "a": [
+      "−4π/4/3",
+      "4π/4/3",
+      "−4π/4·3",
+      "4π/4·3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 953,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): cos x = √3/2. Enter all solutions comma-separated.",
+    "answer": "30,330"
+  },
+  {
+    "rating": 1228,
+    "type": "mcq",
+    "q": "For f(x) = sin(1x + 2π/4), the phase shift is…",
+    "a": [
+      "−2π/4/1",
+      "2π/4/1",
+      "−2π/4·1",
+      "2π/4·1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1683,
+    "type": "mcq",
+    "q": "If sinA=5/13, cosB=5/13 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "1.0",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 683,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 657,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 648,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1044,
+    "type": "mcq",
+    "q": "sin(2x) equals…",
+    "a": [
+      "2 sin x cos x",
+      "sin²x + cos²x",
+      "2 tan x",
+      "cos²x − sin²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 998,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): cos x = √3/2. Enter all solutions comma-separated.",
+    "answer": "30,330"
+  },
+  {
+    "rating": 661,
+    "type": "mcq",
+    "q": "cos(5π/6) = ?",
+    "a": [
+      "-√3/2",
+      "0",
+      "-1",
+      "1/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 935,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): cos x = √3/2. Enter all solutions comma-separated.",
+    "answer": "30,330"
+  },
+  {
+    "rating": 1553,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=0.785, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 4
+  },
+  {
+    "rating": 1068,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 927,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 771,
+    "type": "mcq",
+    "q": "cos(135°) = ?",
+    "a": [
+      "-1",
+      "1",
+      "-√2/2",
+      "0"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1257,
+    "type": "mcq",
+    "q": "For f(x) = sin(3x + 3π/4), the phase shift is…",
+    "a": [
+      "−3π/4/3",
+      "3π/4/3",
+      "−3π/4·3",
+      "3π/4·3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1395,
+    "type": "numeric",
+    "q": "For f(x) = 3cos(x), what is the amplitude?",
+    "answer": "3"
+  },
+  {
+    "rating": 601,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1477,
+    "type": "numeric",
+    "q": "A building is 30 m tall at a horizontal distance 25 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "50"
+  },
+  {
+    "rating": 1278,
+    "type": "mcq",
+    "q": "For f(x) = sin(2x + 4π/4), the phase shift is…",
+    "a": [
+      "−4π/4/2",
+      "4π/4/2",
+      "−4π/4·2",
+      "4π/4·2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1402,
+    "type": "mcq",
+    "q": "For f(x) = cos(2x + 1π/4), the phase shift is…",
+    "a": [
+      "−1π/4/2",
+      "1π/4/2",
+      "−1π/4·2",
+      "1π/4·2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 612,
+    "type": "mcq",
+    "q": "sec x equals…",
+    "a": [
+      "1/cos x",
+      "1/sin x",
+      "tan x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 795,
+    "type": "mcq",
+    "q": "cos(315°) = ?",
+    "a": [
+      "-√2/2",
+      "0",
+      "√2/2",
+      "1/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1778,
+    "type": "numeric",
+    "q": "A 10 m pole casts a shadow with angle of elevation 60°. Shadow length (m) ≈ ?",
+    "answer": "5.77"
+  },
+  {
+    "rating": 1012,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1212,
+    "type": "numeric",
+    "q": "Compute arccos(0) in degrees.",
+    "answer": "90"
+  },
+  {
+    "rating": 563,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 608,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 876,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 642,
+    "type": "mcq",
+    "q": "sin(210°) = ?",
+    "a": [
+      "1",
+      "-1",
+      "√3/2",
+      "-1/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1004,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1469,
+    "type": "numeric",
+    "q": "For f(x) = 4cos(x), what is the amplitude?",
+    "answer": "4"
+  },
+  {
+    "rating": 1234,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos x = −1/2 (answer in radians, comma-separated).",
+    "answer": "2π/3,4π/3"
+  },
+  {
+    "rating": 1944,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=0, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1445,
+    "type": "numeric",
+    "q": "A building is 10 m tall at a horizontal distance 15 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "34"
+  },
+  {
+    "rating": 513,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 774,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1935,
+    "type": "numeric",
+    "q": "A 10 m pole casts a shadow with angle of elevation 37°. Shadow length (m) ≈ ?",
+    "answer": "13.27"
+  },
+  {
+    "rating": 1686,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos(2x) = 0 (radians). Enter all solutions comma-separated.",
+    "answer": "π/4,3π/4,5π/4,7π/4"
+  },
+  {
+    "rating": 1232,
+    "type": "mcq",
+    "q": "For f(x) = sin(4x), period = ?",
+    "a": [
+      "2π|B|",
+      "π",
+      "π/|B|",
+      "2π/4"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1487,
+    "type": "numeric",
+    "q": "A building is 20 m tall at a horizontal distance 10 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "63"
+  },
+  {
+    "rating": 1000,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 932,
+    "type": "mcq",
+    "q": "sin(2x) equals…",
+    "a": [
+      "2 sin x cos x",
+      "sin²x + cos²x",
+      "2 tan x",
+      "cos²x − sin²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1483,
+    "type": "numeric",
+    "q": "For f(x) = 4cos(x), what is the amplitude?",
+    "answer": "4"
+  },
+  {
+    "rating": 1213,
+    "type": "numeric",
+    "q": "A building is 30 m tall at a horizontal distance 25 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "50"
+  },
+  {
+    "rating": 652,
+    "type": "mcq",
+    "q": "sin(π/4) = ?",
+    "a": [
+      "undefined",
+      "√2/2",
+      "-√3/2",
+      "√3/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 996,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 732,
+    "type": "mcq",
+    "q": "cos(30°) = ?",
+    "a": [
+      "-√2/2",
+      "-1",
+      "1/2",
+      "√3/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1098,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 799,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1704,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=0.785, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 4
+  },
+  {
+    "rating": 1701,
+    "type": "mcq",
+    "q": "If sinA=5/13, cosB=4/5 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.862",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 979,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 598,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 540,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 573,
+    "type": "mcq",
+    "q": "sin(60°) = ?",
+    "a": [
+      "-1",
+      "√3/2",
+      "-1/2",
+      "-√3/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 869,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1044,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 991,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 750,
+    "type": "mcq",
+    "q": "sin(90°) = ?",
+    "a": [
+      "√2/2",
+      "1/2",
+      "-1",
+      "1"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1191,
+    "type": "numeric",
+    "q": "A building is 20 m tall at a horizontal distance 20 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "45"
+  },
+  {
+    "rating": 1628,
+    "type": "numeric",
+    "q": "A 5 m pole casts a shadow with angle of elevation 37°. Shadow length (m) ≈ ?",
+    "answer": "6.64"
+  },
+  {
+    "rating": 1471,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 965,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): tan x = 1. Enter all solutions comma-separated.",
+    "answer": "45,225"
+  },
+  {
+    "rating": 552,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 870,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1407,
+    "type": "numeric",
+    "q": "Solve on [0,2π): tan x = −1 (answer in radians, comma-separated).",
+    "answer": "3π/4,7π/4"
+  },
+  {
+    "rating": 888,
+    "type": "mcq",
+    "q": "arccos(1/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1757,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=0.524, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1194,
+    "type": "numeric",
+    "q": "Compute arccos(0) in degrees.",
+    "answer": "90"
+  },
+  {
+    "rating": 895,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): sin x = 1/2. Enter all solutions comma-separated.",
+    "answer": "30,150"
+  },
+  {
+    "rating": 1017,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 996,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1016,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1015,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 933,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1059,
+    "type": "mcq",
+    "q": "sin(A + B) equals…",
+    "a": [
+      "sinA cosB + cosA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB + cosA cosB",
+      "cosA sinB + sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 998,
+    "type": "mcq",
+    "q": "For f(x) = 2sin(3x + 3π/4), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1470,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 614,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 528,
+    "type": "mcq",
+    "q": "tan(2π/3) = ?",
+    "a": [
+      "0",
+      "-√3",
+      "-1",
+      "undefined"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 694,
+    "type": "mcq",
+    "q": "cot x equals…",
+    "a": [
+      "1/tan x",
+      "tan x",
+      "sin x/cos x",
+      "cos x/sin x"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 628,
+    "type": "mcq",
+    "q": "tan(330°) = ?",
+    "a": [
+      "undefined",
+      "√3",
+      "-√3",
+      "-1/√3"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 888,
+    "type": "mcq",
+    "q": "tan(2x) equals…",
+    "a": [
+      "2tan x/(1 − tan²x)",
+      "tan²x",
+      "tan x",
+      "2tan x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 583,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1419,
+    "type": "numeric",
+    "q": "Solve on [0,2π): tan x = −1 (answer in radians, comma-separated).",
+    "answer": "3π/4,7π/4"
+  },
+  {
+    "rating": 625,
+    "type": "mcq",
+    "q": "sin(π/4) = ?",
+    "a": [
+      "1",
+      "√2/2",
+      "-1",
+      "-√3/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1807,
+    "type": "mcq",
+    "q": "If sinA=4/5, cosB=5/13 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.862",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 635,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 787,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1610,
+    "type": "mcq",
+    "q": "cos(3x) equals…",
+    "a": [
+      "4cos³x − 3cos x",
+      "3cos x − 4cos³x",
+      "cos x − sin x",
+      "4sin³x − 3sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 610,
+    "type": "mcq",
+    "q": "tan(150°) = ?",
+    "a": [
+      "0",
+      "-1/√3",
+      "-1",
+      "1"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 945,
+    "type": "mcq",
+    "q": "tan(A + B) equals…",
+    "a": [
+      "(tanA + tanB)/(1 − tanA tanB)",
+      "tanA + tanB",
+      "(tanA − tanB)/(1 + tanA tanB)",
+      "tanA tanB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1011,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1555,
+    "type": "numeric",
+    "q": "A 5 m pole casts a shadow with angle of elevation 60°. Shadow length (m) ≈ ?",
+    "answer": "2.89"
+  },
+  {
+    "rating": 1903,
+    "type": "numeric",
+    "q": "A 15 m pole casts a shadow with angle of elevation 60°. Shadow length (m) ≈ ?",
+    "answer": "8.66"
+  },
+  {
+    "rating": 1053,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 736,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1464,
+    "type": "mcq",
+    "q": "For f(x) = sin(2x), period = ?",
+    "a": [
+      "2π/2",
+      "π/|B|",
+      "π",
+      "2π|B|"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 959,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 661,
+    "type": "mcq",
+    "q": "cos(150°) = ?",
+    "a": [
+      "-√3/2",
+      "-1/2",
+      "0",
+      "√2/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1058,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1047,
+    "type": "mcq",
+    "q": "sin(2x) equals…",
+    "a": [
+      "2 sin x cos x",
+      "sin²x + cos²x",
+      "2 tan x",
+      "cos²x − sin²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1080,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1093,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): sin x = 1/2. Enter all solutions comma-separated.",
+    "answer": "30,150"
+  },
+  {
+    "rating": 634,
+    "type": "mcq",
+    "q": "sin(π/2) = ?",
+    "a": [
+      "1",
+      "0",
+      "√3/2",
+      "-1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 704,
+    "type": "mcq",
+    "q": "sec x equals…",
+    "a": [
+      "1/cos x",
+      "1/sin x",
+      "tan x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1335,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 894,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1001,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1043,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 557,
+    "type": "mcq",
+    "q": "cos(2π/3) = ?",
+    "a": [
+      "undefined",
+      "-1/2",
+      "0",
+      "-√2/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 944,
+    "type": "mcq",
+    "q": "For f(x) = 3cos(3x + 0), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1243,
+    "type": "mcq",
+    "q": "For f(x) = cos(3x + 2π/4), the phase shift is…",
+    "a": [
+      "−2π/4/3",
+      "2π/4/3",
+      "−2π/4·3",
+      "2π/4·3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 770,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 608,
+    "type": "mcq",
+    "q": "cos(180°) = ?",
+    "a": [
+      "1/2",
+      "-1",
+      "√2/2",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 798,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 617,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 622,
+    "type": "mcq",
+    "q": "cos(45°) = ?",
+    "a": [
+      "√2/2",
+      "-√3/2",
+      "√3/2",
+      "1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1298,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos x = −1/2 (answer in radians, comma-separated).",
+    "answer": "2π/3,4π/3"
+  },
+  {
+    "rating": 1071,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 873,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): sin x = 1/2. Enter all solutions comma-separated.",
+    "answer": "30,150"
+  },
+  {
+    "rating": 940,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): sin x = 1/2. Enter all solutions comma-separated.",
+    "answer": "30,150"
+  },
+  {
+    "rating": 1414,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos x = −1/2 (answer in radians, comma-separated).",
+    "answer": "2π/3,4π/3"
+  },
+  {
+    "rating": 544,
+    "type": "mcq",
+    "q": "cos(30°) = ?",
+    "a": [
+      "-1",
+      "1",
+      "√3/2",
+      "-1/2"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 785,
+    "type": "mcq",
+    "q": "cot x equals…",
+    "a": [
+      "1/tan x",
+      "tan x",
+      "sin x/cos x",
+      "cos x/sin x"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1860,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=-1.047, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 965,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 642,
+    "type": "mcq",
+    "q": "cos(150°) = ?",
+    "a": [
+      "-1",
+      "-√3/2",
+      "1",
+      "0"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1831,
+    "type": "mcq",
+    "q": "Compute cos(60°−45°).",
+    "a": [
+      "√2/2",
+      "(√6+√2)/4",
+      "(√6−√2)/4",
+      "0.966"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 564,
+    "type": "mcq",
+    "q": "cot x equals…",
+    "a": [
+      "1/tan x",
+      "tan x",
+      "sin x/cos x",
+      "cos x/sin x"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1718,
+    "type": "mcq",
+    "q": "sin(3x) equals…",
+    "a": [
+      "3sin x − 4sin³x",
+      "4sin³x − 3sin x",
+      "2sin x cos2x",
+      "sin x + sin 3x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1415,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1891,
+    "type": "mcq",
+    "q": "sin(3x) equals…",
+    "a": [
+      "3sin x − 4sin³x",
+      "4sin³x − 3sin x",
+      "2sin x cos2x",
+      "sin x + sin 3x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 915,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1308,
+    "type": "numeric",
+    "q": "For f(x) = 4cos(x), what is the amplitude?",
+    "answer": "4"
+  },
+  {
+    "rating": 535,
+    "type": "mcq",
+    "q": "cos(5π/6) = ?",
+    "a": [
+      "-√3/2",
+      "-√2/2",
+      "0",
+      "undefined"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1407,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 968,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1075,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1013,
+    "type": "mcq",
+    "q": "tan(A + B) equals…",
+    "a": [
+      "(tanA + tanB)/(1 − tanA tanB)",
+      "tanA + tanB",
+      "(tanA − tanB)/(1 + tanA tanB)",
+      "tanA tanB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 591,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 748,
+    "type": "mcq",
+    "q": "tan(5π/3) = ?",
+    "a": [
+      "√3",
+      "1/√3",
+      "0",
+      "-√3"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1031,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 871,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 962,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 876,
+    "type": "mcq",
+    "q": "arcsin(√3/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "5π/6"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1092,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 500,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 584,
+    "type": "mcq",
+    "q": "cos(7π/6) = ?",
+    "a": [
+      "1",
+      "√2/2",
+      "-√2/2",
+      "-√3/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 864,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 774,
+    "type": "mcq",
+    "q": "sin(210°) = ?",
+    "a": [
+      "-√3/2",
+      "-1",
+      "-1/2",
+      "0"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1066,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1363,
+    "type": "mcq",
+    "q": "For f(x) = cos(2x), period = ?",
+    "a": [
+      "π/|B|",
+      "π",
+      "2π/2",
+      "2π|B|"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1433,
+    "type": "mcq",
+    "q": "For f(x) = cos(1x + 1π/4), the phase shift is…",
+    "a": [
+      "−1π/4/1",
+      "1π/4/1",
+      "−1π/4·1",
+      "1π/4·1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1171,
+    "type": "numeric",
+    "q": "Compute arctan(√3) in degrees.",
+    "answer": "60"
+  },
+  {
+    "rating": 1581,
+    "type": "mcq",
+    "q": "If sinA=4/5, cosB=4/5 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "1.0",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1477,
+    "type": "numeric",
+    "q": "A building is 30 m tall at a horizontal distance 40 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "37"
+  },
+  {
+    "rating": 1683,
+    "type": "mcq",
+    "q": "cos(3x) equals…",
+    "a": [
+      "4cos³x − 3cos x",
+      "3cos x − 4cos³x",
+      "cos x − sin x",
+      "4sin³x − 3sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1843,
+    "type": "mcq",
+    "q": "Compute cos(60°−30°).",
+    "a": [
+      "√2/2",
+      "(√6+√2)/4",
+      "(√6−√2)/4",
+      "0.866"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1388,
+    "type": "mcq",
+    "q": "For f(x) = cos(1x + 4π/4), the phase shift is…",
+    "a": [
+      "−4π/4/1",
+      "4π/4/1",
+      "−4π/4·1",
+      "4π/4·1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 686,
+    "type": "mcq",
+    "q": "sin(11π/6) = ?",
+    "a": [
+      "√2/2",
+      "-1/2",
+      "1/2",
+      "-1"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1478,
+    "type": "mcq",
+    "q": "For f(x) = cos(4x), period = ?",
+    "a": [
+      "2π|B|",
+      "π/|B|",
+      "π",
+      "2π/4"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 1438,
+    "type": "numeric",
+    "q": "Solve on [0,2π): sin x = √2/2 (answer in radians, comma-separated).",
+    "answer": "π/4,3π/4"
+  },
+  {
+    "rating": 524,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 779,
+    "type": "mcq",
+    "q": "sin(11π/6) = ?",
+    "a": [
+      "-√2/2",
+      "-1/2",
+      "1",
+      "1/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 540,
+    "type": "mcq",
+    "q": "sec x equals…",
+    "a": [
+      "1/cos x",
+      "1/sin x",
+      "tan x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 602,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 752,
+    "type": "mcq",
+    "q": "sin(2π) = ?",
+    "a": [
+      "0",
+      "-√3/2",
+      "√3/2",
+      "-1/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1044,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "cot²x + 1 = csc²x",
+      "csc²x + 1 = cot²x",
+      "sin²x + cos²x = 2",
+      "tan²x + 1 = csc²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 581,
+    "type": "mcq",
+    "q": "tan(270°) = ?",
+    "a": [
+      "undefined",
+      "√3",
+      "1",
+      "0"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 929,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): tan x = 1. Enter all solutions comma-separated.",
+    "answer": "45,225"
+  },
+  {
+    "rating": 1631,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=1.047, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 5
+  },
+  {
+    "rating": 1164,
+    "type": "numeric",
+    "q": "Compute arccos(0) in degrees.",
+    "answer": "90"
+  },
+  {
+    "rating": 1007,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1450,
+    "type": "numeric",
+    "q": "Solve on [0,2π): cos x = −1/2 (answer in radians, comma-separated).",
+    "answer": "2π/3,4π/3"
+  },
+  {
+    "rating": 1290,
+    "type": "mcq",
+    "q": "For f(x) = cos(1x), period = ?",
+    "a": [
+      "2π",
+      "π",
+      "2π|B|",
+      "π/|B|"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 775,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 676,
+    "type": "mcq",
+    "q": "tan(π/3) = ?",
+    "a": [
+      "√3",
+      "-1/√3",
+      "0",
+      "1/√3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 714,
+    "type": "mcq",
+    "q": "sin(π/6) = ?",
+    "a": [
+      "undefined",
+      "1",
+      "1/2",
+      "0"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1052,
+    "type": "mcq",
+    "q": "arccos(1/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1039,
+    "type": "mcq",
+    "q": "tan(2x) equals…",
+    "a": [
+      "2tan x/(1 − tan²x)",
+      "tan²x",
+      "tan x",
+      "2tan x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 890,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1055,
+    "type": "mcq",
+    "q": "tan(A + B) equals…",
+    "a": [
+      "(tanA + tanB)/(1 − tanA tanB)",
+      "tanA + tanB",
+      "(tanA − tanB)/(1 + tanA tanB)",
+      "tanA tanB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 759,
+    "type": "mcq",
+    "q": "cos(150°) = ?",
+    "a": [
+      "1/2",
+      "-√3/2",
+      "0",
+      "1"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 716,
+    "type": "mcq",
+    "q": "cos(2π/3) = ?",
+    "a": [
+      "√3/2",
+      "√2/2",
+      "1/2",
+      "-1/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 634,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1237,
+    "type": "numeric",
+    "q": "For f(x) = 0.5sin(x), what is the amplitude?",
+    "answer": "0.5"
+  },
+  {
+    "rating": 1353,
+    "type": "mcq",
+    "q": "For f(x) = sin(1x + 3π/4), the phase shift is…",
+    "a": [
+      "−3π/4/1",
+      "3π/4/1",
+      "−3π/4·1",
+      "3π/4·1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 867,
+    "type": "mcq",
+    "q": "cos(A − B) equals…",
+    "a": [
+      "cosA cosB + sinA sinB",
+      "cosA cosB − sinA sinB",
+      "sinA sinB − cosA cosB",
+      "cosA sinB − sinA cosB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 685,
+    "type": "mcq",
+    "q": "tan(0°) = ?",
+    "a": [
+      "√3",
+      "-√3",
+      "-1",
+      "0"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 855,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): tan x = 1. Enter all solutions comma-separated.",
+    "answer": "45,225"
+  },
+  {
+    "rating": 1173,
+    "type": "mcq",
+    "q": "For f(x) = sin(2x), period = ?",
+    "a": [
+      "π",
+      "2π|B|",
+      "π/|B|",
+      "2π/2"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 939,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): cos x = √3/2. Enter all solutions comma-separated.",
+    "answer": "30,330"
+  },
+  {
+    "rating": 735,
+    "type": "mcq",
+    "q": "cos(7π/6) = ?",
+    "a": [
+      "0",
+      "-√3/2",
+      "undefined",
+      "1/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1032,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 776,
+    "type": "mcq",
+    "q": "tan(5π/3) = ?",
+    "a": [
+      "1/√3",
+      "undefined",
+      "-1",
+      "-√3"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 570,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 501,
+    "type": "mcq",
+    "q": "sec x equals…",
+    "a": [
+      "1/cos x",
+      "1/sin x",
+      "tan x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 674,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1026,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 773,
+    "type": "mcq",
+    "q": "cos(210°) = ?",
+    "a": [
+      "√3/2",
+      "-1/2",
+      "-√3/2",
+      "-1"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 930,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1618,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=-1.047, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1670,
+    "type": "numeric",
+    "q": "A 5 m pole casts a shadow with angle of elevation 30°. Shadow length (m) ≈ ?",
+    "answer": "8.66"
+  },
+  {
+    "rating": 1932,
+    "type": "mcq",
+    "q": "If sinA=5/13, cosB=4/5 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.862",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 968,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 579,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 910,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1214,
+    "type": "numeric",
+    "q": "A building is 30 m tall at a horizontal distance 30 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "45"
+  },
+  {
+    "rating": 1909,
+    "type": "mcq",
+    "q": "Compute cos(30°−15°).",
+    "a": [
+      "√2/2",
+      "(√6+√2)/4",
+      "(√6−√2)/4",
+      "0.966"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1338,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 1442,
+    "type": "numeric",
+    "q": "For f(x) = 3sin(x), what is the amplitude?",
+    "answer": "3"
+  },
+  {
+    "rating": 1884,
+    "type": "mcq",
+    "q": "Compute principal value: arcsin(sin(θ)), for θ in {−π/3, −π/6, 0, π/6, π/4, π/3}. If θ=-1.047, result ≈ ?",
+    "a": [
+      "-1.047",
+      "-0.524",
+      "0.0",
+      "0.524",
+      "0.785",
+      "1.047"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 695,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1478,
+    "type": "numeric",
+    "q": "Solve on [0,2π): tan x = −1 (answer in radians, comma-separated).",
+    "answer": "3π/4,7π/4"
+  },
+  {
+    "rating": 636,
+    "type": "mcq",
+    "q": "cos(270°) = ?",
+    "a": [
+      "√3/2",
+      "0",
+      "1/2",
+      "-√3/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 894,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 970,
+    "type": "mcq",
+    "q": "For f(x) = 1sin(0.5x + 2π/4), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1215,
+    "type": "mcq",
+    "q": "For f(x) = sin(3x + 4π/4), the phase shift is…",
+    "a": [
+      "−4π/4/3",
+      "4π/4/3",
+      "−4π/4·3",
+      "4π/4·3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 626,
+    "type": "mcq",
+    "q": "cos(150°) = ?",
+    "a": [
+      "√3/2",
+      "-√3/2",
+      "0",
+      "√2/2"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 893,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1782,
+    "type": "mcq",
+    "q": "Compute sin(30°+15°).",
+    "a": [
+      "1",
+      "(√6+√2)/4",
+      "(√6−√2)/4",
+      "0.707"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 666,
+    "type": "mcq",
+    "q": "cos(5π/4) = ?",
+    "a": [
+      "-√3/2",
+      "0",
+      "-√2/2",
+      "1"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 984,
+    "type": "mcq",
+    "q": "sin²x equals…",
+    "a": [
+      "(1 − cos 2x)/2",
+      "(1 + cos 2x)/2",
+      "(1 − sin 2x)/2",
+      "(1 + sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 929,
+    "type": "mcq",
+    "q": "For f(x) = 0.5cos(0.5x + 2π/4), the period is…",
+    "a": [
+      "2π",
+      "2π/|B|",
+      "π/|B|",
+      "2π|B|"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 1271,
+    "type": "numeric",
+    "q": "A building is 30 m tall at a horizontal distance 25 m. Angle of elevation θ (degrees) ≈ ?",
+    "answer": "50"
+  },
+  {
+    "rating": 781,
+    "type": "mcq",
+    "q": "tan(π/3) = ?",
+    "a": [
+      "-√3",
+      "-1/√3",
+      "√3",
+      "0"
+    ],
+    "correct": 2
+  },
+  {
+    "rating": 1071,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1265,
+    "type": "mcq",
+    "q": "Given sin x = 3/5 (acute), cos x equals…",
+    "a": [
+      "4/5",
+      "−4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1008,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1006,
+    "type": "mcq",
+    "q": "tan(A + B) equals…",
+    "a": [
+      "(tanA + tanB)/(1 − tanA tanB)",
+      "tanA + tanB",
+      "(tanA − tanB)/(1 + tanA tanB)",
+      "tanA tanB"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1064,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): sin x = 1/2. Enter all solutions comma-separated.",
+    "answer": "30,150"
+  },
+  {
+    "rating": 869,
+    "type": "mcq",
+    "q": "arctan(1) = ?",
+    "a": [
+      "π/4",
+      "π/6",
+      "π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 503,
+    "type": "mcq",
+    "q": "tan(180°) = ?",
+    "a": [
+      "0",
+      "-1/√3",
+      "√3",
+      "-√3"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 976,
+    "type": "mcq",
+    "q": "Which identity holds?",
+    "a": [
+      "tan²x + 1 = sec²x",
+      "sec²x + 1 = tan²x",
+      "sin²x + 1 = cos²x",
+      "cot²x + 1 = sec²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 979,
+    "type": "mcq",
+    "q": "sin(2x) equals…",
+    "a": [
+      "2 sin x cos x",
+      "sin²x + cos²x",
+      "2 tan x",
+      "cos²x − sin²x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1049,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1084,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 971,
+    "type": "mcq",
+    "q": "arccos(1/2) = ?",
+    "a": [
+      "π/3",
+      "π/6",
+      "2π/3",
+      "π/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 702,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1734,
+    "type": "mcq",
+    "q": "If sinA=4/5, cosB=12/13 (acute), sin(A+B) ≈ ?",
+    "a": [
+      "0.969",
+      "0.5",
+      "0.75",
+      "0.9"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1187,
+    "type": "numeric",
+    "q": "Compute arcsin(1/2) in degrees.",
+    "answer": "30"
+  },
+  {
+    "rating": 1677,
+    "type": "numeric",
+    "q": "A 10 m pole casts a shadow with angle of elevation 37°. Shadow length (m) ≈ ?",
+    "answer": "13.27"
+  },
+  {
+    "rating": 979,
+    "type": "mcq",
+    "q": "cos²x equals…",
+    "a": [
+      "(1 + cos 2x)/2",
+      "(1 − cos 2x)/2",
+      "(1 + sin 2x)/2",
+      "(1 − sin 2x)/2"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1738,
+    "type": "numeric",
+    "q": "A 15 m pole casts a shadow with angle of elevation 60°. Shadow length (m) ≈ ?",
+    "answer": "8.66"
+  },
+  {
+    "rating": 868,
+    "type": "mcq",
+    "q": "cos(2x) equals…",
+    "a": [
+      "cos²x − sin²x",
+      "1 − 2sin²x",
+      "2cos²x − 1",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "rating": 672,
+    "type": "mcq",
+    "q": "cos(2π/3) = ?",
+    "a": [
+      "-√2/2",
+      "-1/2",
+      "√2/2",
+      "1"
+    ],
+    "correct": 1
+  },
+  {
+    "rating": 691,
+    "type": "mcq",
+    "q": "csc x equals…",
+    "a": [
+      "1/sin x",
+      "1/cos x",
+      "sin x",
+      "cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 623,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 951,
+    "type": "mcq",
+    "q": "Which equals cos(π/2 − x)?",
+    "a": [
+      "sin x",
+      "cos x",
+      "−sin x",
+      "−cos x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 532,
+    "type": "mcq",
+    "q": "sin(π/2 − x) equals…",
+    "a": [
+      "cos x",
+      "sin x",
+      "−cos x",
+      "−sin x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1009,
+    "type": "mcq",
+    "q": "Simplify sin x / cos x.",
+    "a": [
+      "tan x",
+      "cot x",
+      "sec x",
+      "csc x"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1031,
+    "type": "numeric",
+    "q": "Solve in degrees on [0°, 360°): tan x = 1. Enter all solutions comma-separated.",
+    "answer": "45,225"
+  },
+  {
+    "rating": 638,
+    "type": "mcq",
+    "q": "Which identity is true for all x?",
+    "a": [
+      "sin²x + cos²x = 1",
+      "tan²x + 1 = csc²x",
+      "sec²x + 1 = tan²x",
+      "sin²x − cos²x = 1"
+    ],
+    "correct": 0
+  },
+  {
+    "rating": 1478,
+    "type": "numeric",
+    "q": "For f(x) = 4sin(x), what is the amplitude?",
+    "answer": "4"
+  },
+  {
+    "rating": 790,
+    "type": "mcq",
+    "q": "Which is true?",
+    "a": [
+      "sin(−x) = −sin x",
+      "cos(−x) = −cos x",
+      "tan(−x) = tan x",
+      "sin(−x) = sin x"
+    ],
+    "correct": 0
+  }
+]
