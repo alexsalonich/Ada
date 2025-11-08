@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minigame Leaderboard</title>
+  <style>
+    body { font-family: sans-serif; }
+    #gameContainer { margin: 50px; }
+    #leaderboard { margin-top: 20px; }
+    #popup {
+      display: none;
+      position: fixed;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      background: #f0f0f0;
+      padding: 20px;
+      border: 2px solid #333;
+      box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
+    }
+    #popup input { font-size: 18px; margin-bottom: 10px; width: 100%; }
+    #popup button { font-size: 18px; }
+  </style>
+</head>
+<body>
+
+<div id="gameContainer">
+  <h1 id="scoreLabel">Score: 0 | Streak: 0</h1>
+  <div id="gameContent">
+    <!-- Your game will render here -->
+  </div>
+  <div id="leaderboard"></div>
+</div>
+
+<div id="popup">
+  <h2>Game Over!</h2>
+  <input type="text" id="playerName" placeholder="Enter your name" />
+  <button id="submitName">Submit</button>
+</div>
+
+<script>
+class Leaderboard {
+  constructor(maxEntries = 5) {
+    this.maxEntries = maxEntries;
+    this.scores = JSON.parse(localStorage.getItem('leaderboard')) || [];
+  }
+
+  addScore(name, score) {
+    this.scores.push({ name, score });
+    this.scores.sort((a, b) => b.score - a.score);
+    this.scores = this.scores.slice(0, this.maxEntries);
+    localStorage.setItem('leaderboard', JSON.stringify(this.scores));
+  }
+
+  getTopScores() {
+    return this.scores;
+  }
+}
+
+// -------------------------
+// Example: A dummy game
+// -------------------------
+let score = 0;
+let streak = 0;
+const scoreLabel = document.getElementById('scoreLabel');
+const popup = document.getElementById('popup');
+const submitBtn = document.getElementById('submitName');
+const nameInput = document.getElementById('playerName');
+const leaderboardDiv = document.getElementById('leaderboard');
+
+function updateScore(correct) {
+  if (correct) {
+    score++;
+    streak++;
+  } else {
+    streak = 0;
+  }
+  scoreLabel.textContent = `Score: ${score} | Streak: ${streak}`;
+}
+
+// Call this when the game ends
+function endGame() {
+  // Disable game inputs here
+  popup.style.display = 'block';
+}
+
+submitBtn.addEventListener('click', () => {
+  const playerName = nameInput.value.trim();
+  if (playerName) {
+    const lb = new Leaderboard();
+    lb.addScore(playerName, score);
+
+    // Display leaderboard
+    const scoresText = lb.getTopScores().map((s, i) => `${i+1}. ${s.name} - ${s.score}`).join('<br>');
+    leaderboardDiv.innerHTML = `<h3>Leaderboard:</h3>${scoresText}`;
+
+    popup.style.display = 'none';
+  }
+});
